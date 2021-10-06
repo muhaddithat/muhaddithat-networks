@@ -48,6 +48,7 @@ app.layout = html.Div([
     html.P("Dash Cytoscape:"),
     cyto.Cytoscape(
         #id='cytoscape',
+        autoungrabify=True, # Prevent users from moving nodes around.
         id='cytoscape-event-callbacks-3',
         elements= edges + nodes,
         layout={'name': 'breadthfirst'},
