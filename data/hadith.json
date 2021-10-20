@@ -1,0 +1,154 @@
+[
+    {
+        "EnglishText": "Narrated 'Aisha: Once the Prophet came while a woman was sitting with me. He said, \"Who is she?\" I replied, \"She is so and so,\" and told him about her (excessive) praying. He said disapprovingly, \"Do (good) deeds which is within your capacity (without being overtaxed) as Allah does not get tired (of giving rewards) but (surely) you will get tired and the best deed (act of Worship) in the sight of Allah is that which is done regularly.",
+        "ArabicText": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَيْهَا وَعِنْدَهَا امْرَأَةٌ قَالَ ‏\"‏ مَنْ هَذِهِ ‏\"‏‏.‏ قَالَتْ فُلاَنَةُ‏.‏ تَذْكُرُ مِنْ صَلاَتِهَا‏.‏ قَالَ ‏\"‏ مَهْ، عَلَيْكُمْ بِمَا تُطِيقُونَ، فَوَاللَّهِ لاَ يَمَلُّ اللَّهُ حَتَّى تَمَلُّوا \".‏ وَكَانَ أَحَبَّ الدِّينِ إِلَيْهِ مَا دَامَ عَلَيْهِ صَاحِبُهُ‏.‏",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"Sahih Bukhari",
+            "HadithNumber":43
+        },
+        "InBookReference":{
+            "BookName":"Belief",
+            "BookNumber":2,
+            "ChapterNumber":32,
+            "HadithNumber":36
+        },
+        "Grade":"Sahih",
+        "URLs":["https://sunnah.com/bukhari:43"],
+        "NarratorOfInterest?":"Aishah",
+        "Notes":"Listed in Riyadh al-Saliheen"
+    },
+    {
+        "EnglishText":"Kindness is not to be found in anything but that it adds to its beauty and it is not withdrawn from anything but it makes it defective.",
+        "ArabicText":" إِنَّ الرِّفْقَ لاَ يَكُونُ فِي شَىْءٍ إِلاَّ زَانَهُ وَلاَ يُنْزَعُ مِنْ شَىْءٍ إِلاَّ شَانَهُ",
+        "NarrationChain":["see the sunnah.com website - for some reason this hadith is not on muslimscholars.info"],
+        "GlobalReference":{
+            "Collection":"Sahih Muslim",
+            "HadithNumber":"2594a"
+        },
+        "InBookReference":{
+            "BookName":"The Book of Virtue",
+            "BookNumber":45,
+            "ChapterNumber":23,
+            "HadithNumber":100
+        },
+        "Grade":"Sahih",
+        "URLs":["https://sunnah.com/muslim:2594a"],
+        "NarratorOfInterest?":"Aishah",
+        "Notes":"Listed in Riyadh al-Saliheen"
+    },
+    {
+        "EnglishText":"Narrated Asma bint Yazid: that the Messenger of Allah (ﷺ) passed through the Masjid one day, and a group of women were sitting, so he motioned his hand with the Salam - 'Abdul-Hamid (one of the narrators) gestured with his hand.",
+        "ArabicText":"حَدَّثَنَا سُوَيْدٌ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا عَبْدُ الْحَمِيدِ بْنُ بَهْرَامَ، أَنَّهُ سَمِعَ شَهْرَ بْنَ حَوْشَبٍ، يَقُولُ سَمِعْتُ أَسْمَاءَ بِنْتَ يَزِيدَ، تُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ فِي الْمَسْجِدِ يَوْمًا وَعُصْبَةٌ مِنَ النِّسَاءِ قُعُودٌ فَأَلْوَى بِيَدِهِ بِالتَّسْلِيمِ وَأَشَارَ عَبْدُ الْحَمِيدِ بِيَدِهِ ‏.",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"Jami` at-Tirmidhi",
+            "HadithNumber":"2697"
+        },
+        "InBookReference":{
+            "BookName":"",
+            "BookNumber":"42",
+            "ChapterNumber":"9",
+            "HadithNumber":"10"
+        },
+        "Grade":"Hasan",
+        "URLs":["https://sunnah.com/tirmidhi:2697", "https://sunnah.com/riyadussalihin:865", "http://qaalarasulallah.com/hadith.php?ID=3&Rows=5&SID=84&head=Jami%27%20al-Tirmidhi%20[Narrated%20by%20Asma%27%20bint%20Yazid%20bin%20al-Sakan%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D9%8A%D8%B2%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B3%D9%83%D9%86]"],
+        "NarratorOfInterest?":"Asma' bint Yazid",
+        "Notes":"Listed in Riyadh al-Saliheen"
+    },
+    {
+        "EnglishText":"Narrated Asma' bint Yazid bin As-Sakan Al-Ansariyyah: \"The sleeves of (the shirt) of the Messenger of Allah (ﷺ) were to the wrist.\"",
+        "ArabicText":"عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ بْنِ السَّكَنِ الأَنْصَارِيَّةِ، قَالَتْ كَانَ كُمُّ يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى الرُّسْغِ ‏.",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"Jami` at-Tirmidhi",
+            "HadithNumber":"1765"
+        },
+        "InBookReference":{
+            "BookName":"",
+            "BookNumber":"24",
+            "ChapterNumber":"28",
+            "HadithNumber":"48"
+        },
+        "Grade":"Hasan",
+        "URLs":["https://sunnah.com/tirmidhi:1765", "http://qaalarasulallah.com/hadith.php?ID=3&Rows=5&SID=84&head=Jami%27%20al-Tirmidhi%20[Narrated%20by%20Asma%27%20bint%20Yazid%20bin%20al-Sakan%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D9%8A%D8%B2%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B3%D9%83%D9%86]"],
+        "NarratorOfInterest?":"Asma' bint Yazid",
+        "Notes":"Listed in Riyadh al-Saliheen"
+    },
+    {
+        "EnglishText":"Narrated Asma: The Prophet said to me, \"Do not withhold your money, (for if you did so) Allah would withhold His blessings from you.\"",
+        "ArabicText":"عَنْ أَسْمَاءَ ـ رضى الله عنها ـ قَالَتْ قَالَ لِي النَّبِيُّ صلى الله عليه وسلم\"‏ لاَ تُوكِي فَيُوكَى عَلَيْكِ \"",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"Sahih al-Bukhari",
+            "HadithNumber":"1433"
+        },
+        "InBookReference":{
+            "BookName":"Obligatory Charity Tax (Zakat)",
+            "BookNumber":"24",
+            "ChapterNumber":"21",
+            "HadithNumber":"36"
+        },
+        "Grade":"Sahih",
+        "URLs":["https://sunnah.com/bukhari:1433", "https://sunnah.com/riyadussalihin:558", "http://qaalarasulallah.com/hadith.php?ID=0&Rows=43&SID=70&head=Sahih%20Bukhari%20[Narrated%20by%20Asma%27%20bint%20Abi%20Bakr%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82]"],
+        "NarratorsOfInterest":["Asma' bint Abi Bakr", "Fatimah bint al-Munthir"],
+        "Notes":"Listed in Riyadh al-Saliheen"
+    },
+    {
+        "EnglishText":"Asma' bint Abu Bakr As-Siddiq (May Allah be pleased with her) said: My mother came to me while she was still a polytheist, so I asked Messenger of Allah (ﷺ), \"My mother, who is ill-disposed to Islam, has come to visit me. Shall I maintain relations with her?\" He (ﷺ) replied, \"Yes, maintain relations with your mother\".",
+        "ArabicText":"وعن أسماء بنت أبي بكر الصديق رضي الله عنهما قالت‏:‏ قدمت على أمي وهي مشركة في عهد رسول الله صلى الله عليه وسلم، فاستفتيت رسول الله صلى الله عليه وسلم قلت‏:‏ قدمت علي أمي وهي راغبة، أفأصل أمي‏؟‏ قال‏:‏ ‏ \"‏نعم صلي أمك\"",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"Sahih al-Bukhari ",
+            "HadithNumber":"2620"
+        },
+        "InBookReference":{
+            "BookName":"Gifts",
+            "BookNumber":"51",
+            "ChapterNumber":"29",
+            "HadithNumber":"52"
+        },
+        "Grade":"Sahih",
+        "URLs":["https://sunnah.com/bukhari:2620", "https://sunnah.com/riyadussalihin:325", "http://qaalarasulallah.com/hadith.php?ID=0&Rows=43&SID=70&head=Sahih%20Bukhari%20[Narrated%20by%20Asma%27%20bint%20Abi%20Bakr%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82]"],
+        "NarratorOfInterest?":"Asma bint Abi Bakr",
+        "Notes":"Listed in Riyadh al-Saliheen"
+    },
+    {
+        "EnglishText":"",
+        "ArabicText":"",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"",
+            "HadithNumber":""
+        },
+        "InBookReference":{
+            "BookName":"",
+            "BookNumber":"",
+            "ChapterNumber":"",
+            "HadithNumber":""
+        },
+        "Grade":"",
+        "URLs":[],
+        "NarratorOfInterest?":"",
+        "Notes":""
+    },
+    {
+        "EnglishText":"",
+        "ArabicText":"",
+        "NarrationChain":[],
+        "GlobalReference":{
+            "Collection":"",
+            "HadithNumber":""
+        },
+        "InBookReference":{
+            "BookName":"",
+            "BookNumber":"",
+            "ChapterNumber":"",
+            "HadithNumber":""
+        },
+        "Grade":"",
+        "URLs":[],
+        "NarratorOfInterest?":"",
+        "Notes":""
+    }
+]
