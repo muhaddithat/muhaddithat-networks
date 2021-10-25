@@ -2,7 +2,7 @@
     {
         "EnglishText": "Narrated 'Aisha: Once the Prophet came while a woman was sitting with me. He said, \"Who is she?\" I replied, \"She is so and so,\" and told him about her (excessive) praying. He said disapprovingly, \"Do (good) deeds which is within your capacity (without being overtaxed) as Allah does not get tired (of giving rewards) but (surely) you will get tired and the best deed (act of Worship) in the sight of Allah is that which is done regularly.",
         "ArabicText": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَيْهَا وَعِنْدَهَا امْرَأَةٌ قَالَ ‏\"‏ مَنْ هَذِهِ ‏\"‏‏.‏ قَالَتْ فُلاَنَةُ‏.‏ تَذْكُرُ مِنْ صَلاَتِهَا‏.‏ قَالَ ‏\"‏ مَهْ، عَلَيْكُمْ بِمَا تُطِيقُونَ، فَوَاللَّهِ لاَ يَمَلُّ اللَّهُ حَتَّى تَمَلُّوا \".‏ وَكَانَ أَحَبَّ الدِّينِ إِلَيْهِ مَا دَامَ عَلَيْهِ صَاحِبُهُ‏.‏",
-        "NarrationChain":[],
+        "NarrationChain":[53, 10511, 11065, 20031, 30170],
         "GlobalReference":{
             "Collection":"Sahih Bukhari",
             "HadithNumber":43
@@ -10,126 +10,293 @@
         "InBookReference":{
             "BookName":"Belief",
             "BookNumber":2,
+            "ChapterName":"The act of worship loved most by Allah Jalla Jalalahu is that which is done regularly.",
             "ChapterNumber":32,
             "HadithNumber":36
         },
         "Grade":"Sahih",
         "URLs":["https://sunnah.com/bukhari:43"],
-        "NarratorOfInterest?":"Aishah",
-        "Notes":"Listed in Riyadh al-Saliheen"
-    },
-    {
-        "EnglishText":"Kindness is not to be found in anything but that it adds to its beauty and it is not withdrawn from anything but it makes it defective.",
-        "ArabicText":" إِنَّ الرِّفْقَ لاَ يَكُونُ فِي شَىْءٍ إِلاَّ زَانَهُ وَلاَ يُنْزَعُ مِنْ شَىْءٍ إِلاَّ شَانَهُ",
-        "NarrationChain":["see the sunnah.com website - for some reason this hadith is not on muslimscholars.info"],
-        "GlobalReference":{
-            "Collection":"Sahih Muslim",
-            "HadithNumber":"2594a"
-        },
-        "InBookReference":{
-            "BookName":"The Book of Virtue",
-            "BookNumber":45,
-            "ChapterNumber":23,
-            "HadithNumber":100
-        },
-        "Grade":"Sahih",
-        "URLs":["https://sunnah.com/muslim:2594a"],
-        "NarratorOfInterest?":"Aishah",
+        "NarratorsOfInterest":[53],
         "Notes":"Listed in Riyadh al-Saliheen"
     },
     {
         "EnglishText":"Narrated Asma bint Yazid: that the Messenger of Allah (ﷺ) passed through the Masjid one day, and a group of women were sitting, so he motioned his hand with the Salam - 'Abdul-Hamid (one of the narrators) gestured with his hand.",
         "ArabicText":"حَدَّثَنَا سُوَيْدٌ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا عَبْدُ الْحَمِيدِ بْنُ بَهْرَامَ، أَنَّهُ سَمِعَ شَهْرَ بْنَ حَوْشَبٍ، يَقُولُ سَمِعْتُ أَسْمَاءَ بِنْتَ يَزِيدَ، تُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ فِي الْمَسْجِدِ يَوْمًا وَعُصْبَةٌ مِنَ النِّسَاءِ قُعُودٌ فَأَلْوَى بِيَدِهِ بِالتَّسْلِيمِ وَأَشَارَ عَبْدُ الْحَمِيدِ بِيَدِهِ ‏.",
-        "NarrationChain":[],
+        "NarrationChain":[84, 11044, 18598, 20025],
         "GlobalReference":{
             "Collection":"Jami` at-Tirmidhi",
-            "HadithNumber":"2697"
+            "HadithNumber":2697
         },
         "InBookReference":{
             "BookName":"",
-            "BookNumber":"42",
-            "ChapterNumber":"9",
-            "HadithNumber":"10"
+            "BookNumber":42,
+            "ChapterName":"What Has Been Related About Giving The Salam to Women",
+            "ChapterNumber":9,
+            "HadithNumber":10
         },
-        "Grade":"Hasan",
+        "Grade":"Hasan (Darussalam)",
         "URLs":["https://sunnah.com/tirmidhi:2697", "https://sunnah.com/riyadussalihin:865", "http://qaalarasulallah.com/hadith.php?ID=3&Rows=5&SID=84&head=Jami%27%20al-Tirmidhi%20[Narrated%20by%20Asma%27%20bint%20Yazid%20bin%20al-Sakan%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D9%8A%D8%B2%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B3%D9%83%D9%86]"],
-        "NarratorOfInterest?":"Asma' bint Yazid",
+        "NarratorsOfInterest":[84],
         "Notes":"Listed in Riyadh al-Saliheen"
     },
     {
         "EnglishText":"Narrated Asma' bint Yazid bin As-Sakan Al-Ansariyyah: \"The sleeves of (the shirt) of the Messenger of Allah (ﷺ) were to the wrist.\"",
         "ArabicText":"عَنْ أَسْمَاءَ بِنْتِ يَزِيدَ بْنِ السَّكَنِ الأَنْصَارِيَّةِ، قَالَتْ كَانَ كُمُّ يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى الرُّسْغِ ‏.",
-        "NarrationChain":[],
+        "NarrationChain":[84, 11044, 10672, 20295, 20287],
         "GlobalReference":{
             "Collection":"Jami` at-Tirmidhi",
-            "HadithNumber":"1765"
+            "HadithNumber":1765
         },
         "InBookReference":{
-            "BookName":"",
-            "BookNumber":"24",
-            "ChapterNumber":"28",
-            "HadithNumber":"48"
+            "BookName":"The Book on Clothing",
+            "BookNumber":24,
+            "ChapterName":"What Has Been Related About Shirts",
+            "ChapterNumber":28,
+            "HadithNumber":48
         },
-        "Grade":"Hasan",
+        "Grade":"Hasan (Darussalam)",
         "URLs":["https://sunnah.com/tirmidhi:1765", "http://qaalarasulallah.com/hadith.php?ID=3&Rows=5&SID=84&head=Jami%27%20al-Tirmidhi%20[Narrated%20by%20Asma%27%20bint%20Yazid%20bin%20al-Sakan%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D9%8A%D8%B2%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B3%D9%83%D9%86]"],
-        "NarratorOfInterest?":"Asma' bint Yazid",
+        "NarratorsOfInterest":[84],
         "Notes":"Listed in Riyadh al-Saliheen"
     },
     {
         "EnglishText":"Narrated Asma: The Prophet said to me, \"Do not withhold your money, (for if you did so) Allah would withhold His blessings from you.\"",
         "ArabicText":"عَنْ أَسْمَاءَ ـ رضى الله عنها ـ قَالَتْ قَالَ لِي النَّبِيُّ صلى الله عليه وسلم\"‏ لاَ تُوكِي فَيُوكَى عَلَيْكِ \"",
-        "NarrationChain":[],
+        "NarrationChain":[70, 10526, 11065, 20337, 30343],
         "GlobalReference":{
             "Collection":"Sahih al-Bukhari",
-            "HadithNumber":"1433"
+            "HadithNumber":1433
         },
         "InBookReference":{
             "BookName":"Obligatory Charity Tax (Zakat)",
-            "BookNumber":"24",
-            "ChapterNumber":"21",
-            "HadithNumber":"36"
+            "BookNumber":24,
+            "ChapterName":"To exhort one to give in charity",
+            "ChapterNumber":21,
+            "HadithNumber":36
         },
         "Grade":"Sahih",
         "URLs":["https://sunnah.com/bukhari:1433", "https://sunnah.com/riyadussalihin:558", "http://qaalarasulallah.com/hadith.php?ID=0&Rows=43&SID=70&head=Sahih%20Bukhari%20[Narrated%20by%20Asma%27%20bint%20Abi%20Bakr%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82]"],
-        "NarratorsOfInterest":["Asma' bint Abi Bakr", "Fatimah bint al-Munthir"],
+        "NarratorsOfInterest":[70, 10526],
         "Notes":"Listed in Riyadh al-Saliheen"
     },
     {
         "EnglishText":"Asma' bint Abu Bakr As-Siddiq (May Allah be pleased with her) said: My mother came to me while she was still a polytheist, so I asked Messenger of Allah (ﷺ), \"My mother, who is ill-disposed to Islam, has come to visit me. Shall I maintain relations with her?\" He (ﷺ) replied, \"Yes, maintain relations with your mother\".",
         "ArabicText":"وعن أسماء بنت أبي بكر الصديق رضي الله عنهما قالت‏:‏ قدمت على أمي وهي مشركة في عهد رسول الله صلى الله عليه وسلم، فاستفتيت رسول الله صلى الله عليه وسلم قلت‏:‏ قدمت علي أمي وهي راغبة، أفأصل أمي‏؟‏ قال‏:‏ ‏ \"‏نعم صلي أمك\"",
-        "NarrationChain":[],
+        "NarrationChain":[70, 10511, 11065, 20318, 30360],
         "GlobalReference":{
-            "Collection":"Sahih al-Bukhari ",
-            "HadithNumber":"2620"
+            "Collection":"Sahih al-Bukhari",
+            "HadithNumber":2620
         },
         "InBookReference":{
             "BookName":"Gifts",
-            "BookNumber":"51",
-            "ChapterNumber":"29",
-            "HadithNumber":"52"
+            "BookNumber":51,
+            "ChapterName":"Giving presents to Al-Mushrikun",
+            "ChapterNumber":29,
+            "HadithNumber":52
         },
         "Grade":"Sahih",
         "URLs":["https://sunnah.com/bukhari:2620", "https://sunnah.com/riyadussalihin:325", "http://qaalarasulallah.com/hadith.php?ID=0&Rows=43&SID=70&head=Sahih%20Bukhari%20[Narrated%20by%20Asma%27%20bint%20Abi%20Bakr%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82]"],
-        "NarratorOfInterest?":"Asma bint Abi Bakr",
+        "NarratorsOfInterest":[70],
         "Notes":"Listed in Riyadh al-Saliheen"
     },
     {
-        "EnglishText":"",
-        "ArabicText":"",
-        "NarrationChain":[],
+        "EnglishText":"Umm Salamah (May Allah be pleased with her) reported: Whenever the Prophet (ﷺ) stepped out of his house, he would say, \"Bismillah, tawakkaltu 'alallah. Allahumma inni a'udhu bika an adilla aw udalla, aw azilla aw uzalla, aw azlima aw uzlama, aw ajhala aw yujhala 'alayya\". \"[I go forth. (I begin with the Name of Allah, I trust in Allah; O Allah! I seek refuge in You from leaving or being led astray, or against slipping or being caused to slip; or doing injustice or being done injustice; or doing wrong or having wrong done to me)]\".",
+        "ArabicText":"عن أم المؤمنين أم سلمة، واسمها هند بنت أبي أمية حذيفة المخزومية، رضي الله عنها أن النبي صلى الله عليه وسلم كان إذا خرج من بيته قال‏:‏ ‏ \"‏بسم الله، توكلت على الله ، اللهم إني أعوذ بك أن أضل أو أضل، أو أذل أو أذل، أو أظلم أو أظلم ، أو أجهل أو يجهل علي\"‏",
+        "NarrationChain":[56, 11052, 11067, 20012, 20032, 30277],
         "GlobalReference":{
-            "Collection":"",
-            "HadithNumber":""
+            "Collection":"Jami` at-Tirmidhi",
+            "HadithNumber":3427
         },
         "InBookReference":{
-            "BookName":"",
-            "BookNumber":"",
-            "ChapterNumber":"",
-            "HadithNumber":""
+            "BookName":"Chapters on Supplication",
+            "BookNumber":48,
+            "ChapterName":"Firm Belief and Perfect Reliance on Allah",
+            "ChapterNumber":7,
+            "HadithNumber":58
         },
-        "Grade":"",
-        "URLs":[],
-        "NarratorOfInterest?":"",
+        "Grade":"Hasan Sahih",
+        "URLs":["https://sunnah.com/riyadussalihin:82", "http://qaalarasulallah.com/hadith.php?ID=3&Rows=36&SID=56&head=Jami%27%20al-Tirmidhi%20[Narrated%20by%20Umm%20Salamah%20%D8%A3%D9%85%20%D8%B3%D9%84%D9%85%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%A3%D9%85%D9%8A%D8%A9]"],
+        "NarratorsOfInterest":[56],
+        "Notes":"Listed in Riyadh al-Saliheen (#82)"
+    },
+    {
+        "EnglishText":"Umm Salamah (May Allah be pleased with her) reported: I asked Messenger of Allah (ﷺ), \"Would I be rewarded for what I spend on Abu Salamah's sons? For I can't let them go here and there (to beg people).\" Messenger of Allah (ﷺ) replied, \"Spend on them and you will be rewarded for what you spend on them\".",
+        "ArabicText":"وعن أم سلمة رضي الله عنها قالت‏:‏ قلت يارسول الله، هل لي أجر في بني أبي سلمة أن أنفق عليهم، ولست بتاركتهم هكذا وهكذا إنما هم بني‏؟‏ فقال‏:‏ ‏ \"‏ نعم لك أجر ما أنفقت عليهم\" ",
+        "NarrationChain":[56, 244, 10511, 11065, 20299, 20040],
+        "GlobalReference":{
+            "Collection":"Sahih al-Bukhari",
+            "HadithNumber":5224
+        },
+        "InBookReference":{
+            "BookName":"Supporting the Family",
+            "BookNumber":69,
+            "ChapterName":"Sustentation of the Members of the Family",
+            "ChapterNumber":36,
+            "HadithNumber":5423
+        },
+        "Grade":"Sahih",
+        "URLs":["https://sunnah.com/riyadussalihin:291", "http://qaalarasulallah.com/hadith.php?ID=0&Rows=38&SID=244&head=Sahih%20Bukhari%20%5bNarrated%20by%20Zaynab%20bint%20Abi%20Salamah%20%D8%B2%D9%8A%D9%86%D8%A8%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%B3%D9%84%D9%85%D8%A9%20"],
+        "NarratorsOfInterest":[56, 244],
+        "Notes":"Listed in Riyadh as-Saliheen (#291)"
+    },
+    {
+        "EnglishText":"Narrated Umm Habibah: The Prophet (ﷺ) as saying: If anyone prays in a day and a night twelve rak'ahs voluntarily (supererogatory prayer), a house will be built from him in Paradise on account of these (rak'ahs).",
+        "ArabicText":"عَنْ أُمِّ حَبِيبَةَ، قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ مَنْ صَلَّى فِي يَوْمٍ ثِنْتَىْ عَشْرَةَ رَكْعَةً تَطَوُّعًا بُنِيَ لَهُ بِهِنَّ بَيْتٌ فِي الْجَنَّةِ ‏\"",
+        "NarrationChain":[59, 846, 11437, 10972, 11585, 20208, 31167],
+        "GlobalReference":{
+            "Collection":"Sunan Abi Dawud",
+            "HadithNumber":1250
+        },
+        "InBookReference":{
+            "BookName":"Prayer",
+            "BookNumber":5,
+            "ChapterName":"Chapters Regarding The Voluntary And Sunnah Prayers",
+            "ChapterNumber":441,
+            "HadithNumber":1245
+        },
+        "Grade":"Sahih (Al-Albani)",
+        "URLs":["https://sunnah.com/abudawud:1250", "http://qaalarasulallah.com/hadith.php?ID=2&Rows=7&SID=59&head=Sunan%20Abi%20Da%27ud%20%5bNarrated%20by%20Umm%20Habibah%20bint%20Abi%20Sufyan%20%D8%A3%D9%85%20%D8%AD%D8%A8%D9%8A%D8%A8%D8%A9%20,%D8%B1%D9%85%D9%84%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%B3%D9%81%D9%8A%D8%A7%D9%86"],
+        "NarratorsOfInterest":[59],
+        "Notes":""
+    },
+    {
+        "EnglishText":"A’ishah said: Dates were steeped for the Apostel of Allah (ﷺ) in skin which was tied up at the top and had a mouth. What was steeped in the morning he would drink in the evening and what was steeped in the evening he would drink in the morning.",
+        "ArabicText":"عَنِ الْحَسَنِ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كَانَ يُنْبَذُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي سِقَاءٍ يُوكَأُ أَعْلاَهُ وَلَهُ عَزْلاَءُ يُنْبَذُ غُدْوَةً فَيَشْرَبُهُ عِشَاءً وَيُنْبَذُ عِشَاءً فَيَشْرَبُهُ غُدْوَةً ‏.‏",
+        "NarrationChain":[53, 10737, 11016, 11075, 30170],
+        "GlobalReference":{
+            "Collection":"Sunan Abi Dawud",
+            "HadithNumber":3711
+        },
+        "InBookReference":{
+            "BookName":"Drinks",
+            "BookNumber":27,
+            "ChapterName":"Regarding the description of Nabidh",
+            "ChapterNumber":10,
+            "HadithNumber":43
+        },
+        "Grade":"Sahih (Al-Albani)",
+        "URLs":["https://sunnah.com/abudawud:3711", "http://qaalarasulallah.com/hadith.php?ID=2&Rows=2&SID=10737&head=Sunan%20Abi%20Da%27ud%20%5bNarrated%20by%20Khayra%20Umm%20al-Hasan%20al-%27Abbassri%20%D8%AE%D9%8A%D8%B1%D8%A9%20%D8%A3%D9%85%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A"],
+        "NarratorsOfInterest":[53, 10737],
+        "Notes":""
+    },
+    {
+        "EnglishText":"Narrated Asma' daughter of Umays: The Messenger of Allah (ﷺ) said to me: May I not teach you phrases which you utter in distress? (These are:) \"Allah , Allah is my Lord, I do not associate anything as partner with Him.\"",
+        "ArabicText":"عَنْ أَسْمَاءَ بِنْتِ عُمَيْسٍ، قَالَتْ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ أَلاَ أُعَلِّمُكِ كَلِمَاتٍ تَقُولِينَهُنَّ عِنْدَ الْكَرْبِ أَوْ فِي الْكَرْبِ اللَّهُ اللَّهُ رَبِّي لاَ أُشْرِكُ بِهِ شَيْئًا ‏\"‏",
+        "NarrationChain":[69, 11010, 11229, 20330, 30175],
+        "GlobalReference":{
+            "Collection":"Sunan Abi Dawud",
+            "HadithNumber":1525
+        },
+        "InBookReference":{
+            "BookName":"Prayer",
+            "BookNumber":8,
+            "ChapterName":"About Seeking Forgiveness",
+            "ChapterNumber":512,
+            "HadithNumber":110
+        },
+        "Grade":"Sahih (Al-Albani)",
+        "URLs":["https://sunnah.com/abudawud:1525", "http://qaalarasulallah.com/hadith.php?ID=2&Rows=2&SID=69&head=Sunan%20Abi%20Da%27ud%20[Narrated%20by%20Asma%20bint%20%27Umays%20%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D8%B9%D9%85%D9%8A%D8%B3%20%D8%A8%D9%86%20%D9%85%D8%B9%D8%AF]"],
+        "NarratorsOfInterest":[69],
+        "Notes":""
+    },
+    {
+        "EnglishText":"Narrated Hafsah, Ummul Mu'minin: The apostle of Allah (ﷺ) used to fast three days every month: Monday, Thursday and Monday in the next week.",
+        "ArabicText":"عَنْ حَفْصَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصُومُ ثَلاَثَةَ أَيَّامٍ مِنَ الشَّهْرِ الاِثْنَيْنِ وَالْخَمِيسِ وَالاِثْنَيْنِ مِنَ الْجُمُعَةِ الأُخْرَى ‏.‏",
+        "NarrationChain":[54, 18400, 11358, 20022, 20040],
+        "GlobalReference":{
+            "Collection":"Sunan Abi Dawud",
+            "HadithNumber":2451
+        },
+        "InBookReference":{
+            "BookName":"Fasting",
+            "BookNumber":14,
+            "ChapterName":"Whoever Said Monday And Thursday",
+            "ChapterNumber":845,
+            "HadithNumber":139
+        },
+        "Grade":"Hasan (Al-Albani)",
+        "URLs":["https://sunnah.com/abudawud:2451", "http://qaalarasulallah.com/hadith.php?ID=2&Rows=5&SID=54&head=Sunan%20Abi%20Da%27ud%20%5bNarrated%20by%20Hafsa%20bint%20Umar%20%D8%AD%D9%81%D8%B5%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B9%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8%20%D8%A3%D9%85%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86"],
+        "NarratorsOfInterest":[54],
+        "Notes":""
+    },
+    {
+        "EnglishText":"It was narrated that Hafsah said: \"I never saw the Messenger of Allah (ﷺ) offer his voluntary prayers sitting down until one year before his death. Then he used to pray sitting down, reciting the surah so slowly that it seemed to be longer than a surah that is longer.\"",
+        "ArabicText":"عَنْ حَفْصَةَ، قَالَتْ مَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى فِي سُبْحَتِهِ قَاعِدًا قَطُّ حَتَّى كَانَ قَبْلَ وَفَاتِهِ بِعَامٍ فَكَانَ يُصَلِّي قَاعِدًا يَقْرَأُ بِالسُّورَةِ فَيُرَتِّلُهَا حَتَّى تَكُونَ أَطْوَلَ مِنْ أَطْوَلَ مِنْهَا ‏.‏",
+        "NarrationChain":[54, 5295, 3048, 11013, 20001, 30367],
+        "GlobalReference":{
+            "Collection":"Sunan an-Nasa'i",
+            "HadithNumber":1658
+        },
+        "InBookReference":{
+            "BookName":"The Book of the Night Prayer",
+            "BookNumber":20,
+            "ChapterName":"Sitting while performing voluntary prayers[...]",
+            "ChapterNumber":19,
+            "HadithNumber":61
+        },
+        "Grade":"Sahih (Darussalam)",
+        "URLs":["https://sunnah.com/nasai:1658", "http://qaalarasulallah.com/hadith.php?ID=4&Rows=34&SID=54&head=Sunan%20an-Nasa%27i%20%5bNarrated%20by%20Hafsa%20bint%20Umar%20%D8%AD%D9%81%D8%B5%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B9%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8%20%D8%A3%D9%85%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86"],
+        "NarratorsOfInterest":[54],
+        "Notes":""
+    },
+    {
+        "EnglishText":"It was narrated from Hafsah that: The Prophet (ﷺ) used to pray the two rak'ahs of Fajr, two brief rak'ahs.",
+        "ArabicText":"عَنْ صَفِيَّةَ، عَنْ حَفْصَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يُصَلِّي رَكْعَتَىِ الْفَجْرِ رَكْعَتَيْنِ خَفِيفَتَيْنِ ‏.‏",
+        "NarrationChain":[54, 2802, 11014, 20226, 11213],
+        "GlobalReference":{
+            "Collection":"Sunan an-Nasa'i",
+            "HadithNumber":1765
+        },
+        "InBookReference":{
+            "BookName":"The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+            "BookNumber":20,
+            "ChapterName":"The time for the two rak'ahs of Fajr[...]",
+            "ChapterNumber":60,
+            "HadithNumber":168
+        },
+        "Grade":"Sahih (Darussalam)",
+        "URLs":["https://sunnah.com/nasai:1765", "http://qaalarasulallah.com/hadith.php?ID=4&Rows=34&SID=54&head=Sunan%20an-Nasa%27i%20%5bNarrated%20by%20Hafsa%20bint%20Umar%20%D8%AD%D9%81%D8%B5%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B9%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8%20%D8%A3%D9%85%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86"],
+        "NarratorsOfInterest":[54, 2802],
+        "Notes":""
+    },
+    {
+        "EnglishText":"It was narrated that 'Aishah said: \"Something bad was said in the presence of the Prophet about a person who had died. He said: 'Do not say anything but good about your dead.\"'",
+        "ArabicText":"أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنِي أَحْمَدُ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ ذُكِرَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم هَالِكٌ بِسُوءٍ فَقَالَ ‏ \" ‏ لاَ تَذْكُرُوا هَلْكَاكُمْ إِلاَّ بِخَيْرٍ ‏\"",
+        "NarrationChain":[53, 2802, 11565, 20299, 30289, 38088],
+        "GlobalReference":{
+            "Collection":"Sunan an-Nasa'i",
+            "HadithNumber":1935
+        },
+        "InBookReference":{
+            "BookName":"The Book of Funerals",
+            "BookNumber":21,
+            "ChapterName":"The Prohibition Of Saying Anything But Good About The Deceased",
+            "ChapterNumber":51,
+            "HadithNumber":118
+        },
+        "Grade":"Sahih (Darussalam)",
+        "URLs":["https://sunnah.com/nasai:1935", "http://qaalarasulallah.com/hadith.php?ID=4&Rows=11&SID=2802&head=Sunan%20an-Nasa%27i%20%5bNarrated%20by%20Safiyya%20bint%20Shayba%20bin%20%27Uthman%20%D8%B5%D9%81%D9%8A%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B4%D9%8A%D8%A8%D8%A9%20%D8%A8%D9%86%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D8%A8%D8%AF%D8%B1%D9%8A%D8%A9"],
+        "NarratorsOfInterest":[53, 2802],
+        "Notes":""
+    },
+    {
+        "EnglishText":"Umm Darda' reported:  My husband reported that he heard Allah's Messenger (ﷺ) as saying: He who supplicates for his brother behind his back (in his absence), the Angel commissioned (for carrying supplication to his Lord) says: Amen, and it is for you also.",
+        "ArabicText":" عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ مَا مِنْ عَبْدٍ مُسْلِمٍ يَدْعُو لأَخِيهِ بِظَهْرِ الْغَيْبِ إِلاَّ قَالَ الْمَلَكُ وَلَكَ بِمِثْلٍ \"",
+        "NarrationChain":[37, 11457, 18679, 20349, 20356],
+        "GlobalReference":{
+            "Collection":"Sahih Muslim",
+            "HadithNumber":2731
+        },
+        "InBookReference":{
+            "BookName":"The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+            "BookNumber":48,
+            "ChapterName":"The Virtue Of Praying For The Muslims In Their Absence",
+            "ChapterNumber":23,
+            "HadithNumber":120
+        },
+        "Grade":"Sahih",
+        "URLs":["https://sunnah.com/muslim:2732b", "http://qaalarasulallah.com/hadith.php?ID=1&Rows=5&SID=11457&head=Sahih%20Muslim%20%5bNarrated%20by%20Umm%20al-Darda%27a%20%D8%A3%D9%85%20%D8%A7%D9%84%D8%AF%D8%B1%D8%AF%D8%A7%D8%A1"],
+        "NarratorsOfInterest":[11457],
         "Notes":""
     },
     {
@@ -143,12 +310,13 @@
         "InBookReference":{
             "BookName":"",
             "BookNumber":"",
+            "ChapterName":"",
             "ChapterNumber":"",
             "HadithNumber":""
         },
         "Grade":"",
         "URLs":[],
-        "NarratorOfInterest?":"",
+        "NarratorsOfInterest":"",
         "Notes":""
     }
 ]
