@@ -1,26 +1,122 @@
 [
     {
-        "NarratorID":"",
+        "NarratorID":53,
         "Biography":"",
-        "Generation":"Sahabi/Tabi'/Taba'Tabi'",
-        "PlacesOfStay":[""],
-        "NumberOfHadithNarrated":"",
-        "References":""
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah", "Basrah"],
+        "ApproxNumberOfHadithNarrated":2200,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=53", "https://muslimscholars.info/manage.php?submit=Find&yfield=3&scholarSearch=Seven%20Fuqaha"]
+    },
+    {
+        "NarratorID":10526,
+        "Biography":"",
+        "Generation":"Tabi'yyah (Successor)",
+        "PlacesOfStay":["Madinah"],
+        "ApproxNumberOfHadithNarrated":"",
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=10526"]
+    },
+    {
+        "NarratorID":2802,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Makkah", "Madinah"],
+        "ApproxNumberOfHadithNarrated":"",
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=2802"]
+    },
+    {
+        "NarratorID":10737,
+        "Biography":"",
+        "Generation":"Tabi'iyyah (Successor)",
+        "PlacesOfStay":["Madinah"],
+        "ApproxNumberOfHadithNarrated":"",
+        "References":["https://miftaah.org/articles/2018/11/14/hasan-al-basri", "https://www.islamweb.net/en/article/136052/al-hasan-al-basri", "http://muslimscholars.info/manage.php?submit=scholar&ID=10737"]
+    },
+    {
+        "NarratorID":244,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah"],
+        "ApproxNumberOfHadithNarrated":100,
+        "References":["https://muslimscholars.info/manage.php?submit=scholar&ID=244", "http://my-iddah.com/another-mans-daughter-the-story-of-zaynab-bint-abi-salamah/"]
+    },
+    {
+        "NarratorID":84,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah", "Damascus"],
+        "ApproxNumberOfHadithNarrated":80,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=84"]
+    },
+    {
+        "NarratorID":59,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Abyssinia", "Madinah"],
+        "ApproxNumberOfHadithNarrated":60,
+        "References":["https://muslimscholars.info/manage.php?submit=scholar&ID=59"]
+    },
+    {
+        "NarratorID":69,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Abyssinia", "Madinah"],
+        "ApproxNumberOfHadithNarrated":60,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=69"]
+    },
+    {
+        "NarratorID":54,
+        "Biography":"",
+        "Generation":"Sahabiyyah",
+        "PlacesOfStay":["Madinah"],
+        "ApproxNumberOfHadithNarrated":60,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=54"]
+    },
+    {
+        "NarratorID":56,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah"],
+        "ApproxNumberOfHadithNarrated":380,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=56", "https://yaqeeninstitute.org/read/paper/barred-from-that-which-you-love-lessons-from-the-life-of-umm-salamah"]
+    },
+    {
+        "NarratorID":70,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah"],
+        "ApproxNumberOfHadithNarrated":100,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=70"]
+    },
+    {
+        "NarratorID":11457,
+        "Biography":"",
+        "Generation":"Tabi'iyyah (Successor)",
+        "PlacesOfStay":["Madinah", "Damascus", "Jerusalem"],
+        "ApproxNumberOfHadithNarrated":30,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "https://muslimscholars.info/manage.php?submit=scholar&ID=11457"]
+    },
+    {
+        "NarratorID":11039,
+        "Biography":"",
+        "Generation":"Tabi'yyah (Successor)",
+        "PlacesOfStay":["Madinah", "Basrah"],
+        "ApproxNumberOfHadithNarrated":60,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "http://idealmuslimah.com/personalities/womenscholars/559-hafsah-bint-seereen-part-1.html", "https://muslimscholars.info/manage.php?submit=scholar&ID=11039"]
+    },
+    {
+        "NarratorID":71,
+        "Biography":"",
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah", "Basrah"],
+        "ApproxNumberOfHadithNarrated":80,
+        "References":["al-Muhaddithat by Mohammad Akram Nadwi", "http://muslimscholars.info/manage2.php?submit=scholar&ID=71"]
     },
     {
         "NarratorID":"",
         "Biography":"",
-        "Generation":"Sahabi/Tabi'/Taba'Tabi'",
-        "PlacesOfStay":[""],
-        "NumberOfHadithNarrated":"",
-        "References":""
-    },
-    {
-        "NarratorID":"",
-        "Biography":"",
-        "Generation":"Sahabi/Tabi'/Taba'Tabi'",
-        "PlacesOfStay":[""],
-        "NumberOfHadithNarrated":"",
-        "References":""
+        "Generation":"Sahabiyyah (Companion)",
+        "PlacesOfStay":["Madinah", "Basrah"],
+        "ApproxNumberOfHadithNarrated":80,
+        "References":[""]
     }
 ]
