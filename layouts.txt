@@ -1,0 +1,59 @@
+There are multiple Python interfaces for GraphViz, none of which are well-documented or totally consistent with each other, and all of which have some sort of restricted set of capabilities (e.g. absence of some algorithms, only supports rendered output without convenient ways to access raw layout data, etc.). I have tried going via NetworkX's adaptors for pydot, the python-graphviz package (which includes the underlying graphviz python package), and the pygraphviz package. I am resorting to using the command line interface, since with it I am able to produce layouts with two algorithms in reasonable completion time which I believe will produce better layouts than the dash cytoscape layouts. This cannot be confirmed for each graph until they have all been displayed and styled in dash cytoscape, so I am committing to this as our final choice and generating all layouts in this manner. I have also looked into generating layouts with other programs, but the major candidates I have previously used (Gephi and NetworkWorkbench) are either not well-maintained at this point or are not supported on my current operating system. I do not believe igraph's algorithms would perform any better than those available via dash cytoscape. There are further options for more customized layouts, but for the scope of this project we realistically need a pre-packaged algorithm available via Python, and failing that the GraphViz command line interface will suffice.
+
+Following are the commands used to produce graph layouts with the twopi and osage algorithms:
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-53.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-53.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-54.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-54.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-56.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-56.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-59.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-59.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-69.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-69.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-70.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-70.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-71.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-71.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-84.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-84.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-244.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-244.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-2802.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-2802.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10526.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10526.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10737.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10737.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11039.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11039.json
+
+twopi -Tjson SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11457.dot > LAYOUT-TWOPI_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11457.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-53.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-53.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-54.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-54.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-56.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-56.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-59.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-59.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-69.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-69.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-70.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-70.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-71.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-71.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-84.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-84.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-244.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-244.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-2802.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-2802.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10526.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10526.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10737.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-10737.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11039.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11039.json
+
+osage -Tjson -Gsplines=true -Goverlap=scale SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11457.dot > LAYOUT-OSAGE_SUBGRAPH_TO-ROOT_MAX-DEPTH-3_SEEDS-11457.json

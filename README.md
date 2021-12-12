@@ -15,3 +15,4 @@ Running the scripts for this project requires a Python environment with the foll
 - pandas
 - networkx
 - json
+- python-graphviz

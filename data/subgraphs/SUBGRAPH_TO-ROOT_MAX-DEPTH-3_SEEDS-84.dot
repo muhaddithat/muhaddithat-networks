@@ -1,0 +1,1851 @@
+strict digraph "" {
+	84	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Asma' bint Yazid bin al-Sakan ( أسماء بنت يزيد بن السكن ( رضي الله عنها"];
+	12498	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Mahmud bin 'Amr bin Yazid bin al-Sakan محمود بن عمرو بن يزيد بن السكن"];
+	84 -> 12498;
+	11044	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Shar bin Hushab al-Asha'ri شهر بن حوشب الأشعري"];
+	84 -> 11044;
+	17066	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Muhajir bin Abi Muslim (Dinar) مهاجر بن أبي مسلم"];
+	84 -> 17066;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 84;
+	11449	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Yahya bin Abi Kathir يحيى بن أبي كثير الطائي"];
+	12498 -> 11449;
+	12057	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=maqbool,
+		name="Husayn bin 'Abdur Rahman al-Ashhali حصين بن عبد الرحمن الأشهلي"];
+	12498 -> 12057;
+	11019	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade="thiqah thiqah",
+		name="Qatada قتادة"];
+	11044 -> 11019;
+	10957	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="al-Lyth bin Abi Sulaym الليث بن أبي سليم"];
+	11044 -> 10957;
+	11358	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="sadooq/delusion",
+		name="'Asim bin Abu al-Najud (Bahdla) عاصم بن بهدلة / بن أبي النجود"];
+	11044 -> 11358;
+	11069	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="thiqah thiqah",
+		name="al-Hakam bin 'Utayba الحكم بن عتيبة"];
+	11044 -> 11069;
+	11269	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade="thiqah thiqah",
+		name="Thabit bin Aslam Albanani ثابت بن أسلم البناني"];
+	11044 -> 11269;
+	10672	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Badayl bin Maysarah بديل بن ميسرة"];
+	11044 -> 10672;
+	11419	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Ja'far bin Iyas (Abi Wahshiyya) جعفر بن إياس / بن أبي وحشية"];
+	11044 -> 11419;
+	11585	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Da'ud bin Abi Hnd داود بن أبي هند"];
+	11044 -> 11585;
+	10644	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="'Abdullah bin 'Uthman bin Khuthaym عبد الله بن عثمان بن خثيم القاري"];
+	11044 -> 10644;
+	10719	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Matr bin Tahman al-Waraq مطر بن طهمان الوراق أبو رجاء الخراساني"];
+	11044 -> 10719;
+	10714	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Muhammad bin Shbyb al-Zhrany محمد بن شبيب الزهراني البصري"];
+	11044 -> 10714;
+	11251	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Abd عبد الله بن عبد الرحمن بن أبي حسين"];
+	11044 -> 11251;
+	28379	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="not thiqah",
+		name="'Ubaidullah bin 'AR bin 'Abdullah عبيد الله بن عبد الرحمن بن عبد الله"];
+	11044 -> 28379;
+	10693	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="sadooq/delusion",
+		name="'Amir bin Abd al-Wahd عامر بن عبد الواحد الأحول البصري"];
+	11044 -> 10693;
+	10967	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Mqatl bin Hyan al-Nbty مقاتل بن حيان النبطي"];
+	11044 -> 10967;
+	10997	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Abu N'amh al-Sa'dy أبو نعامة السعدي"];
+	11044 -> 10997;
+	11595	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=sadooq,
+		name="Sinan bin Rabi'ya al-Bahli سنان بن ربيعة الباهلي"];
+	11044 -> 11595;
+	11614	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=sadooq,
+		name="Maymun bin Syah ميمون بن سياه"];
+	11044 -> 11614;
+	13018	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Da'ud bin Shabwr داود بن شابور"];
+	11044 -> 13018;
+	13080	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="not thiqah",
+		name="'Ubaidullah bin Aby عبيد الله بن أبي زياد القداح"];
+	11044 -> 13080;
+	14114	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Rashid bin Njyh al-Hmany راشد بن نجيح الحماني"];
+	11044 -> 14114;
+	14177	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="sadooq/delusion",
+		name="Shbyl bin Azrh bin 'Umayr شبيل بن عزرة بن عمير"];
+	11044 -> 14177;
+	14306	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="al-'Ala' bin Hilal bin Aby العلاء بن هلال بن أبي عطية البصري"];
+	11044 -> 14306;
+	14313	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Farqad bin Y'aqub al-Sabkhi فرقد بن يعقوب السبخي"];
+	11044 -> 14313;
+	14356	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Mrzwq Abu 'Abdullah مرزوق أبو عبد الله الحمصي"];
+	11044 -> 14356;
+	14469	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=maqbool,
+		name="Abu al-Wrd bin Thmamh أبو الورد بن ثمامة"];
+	11044 -> 14469;
+	15238	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Shamr bin 'Atiyya شمر بن عطية"];
+	11044 -> 15238;
+	18355	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=maqbool,
+		name="Sa'id bin Atyh al-Lythy سعيد بن عطية الليثي"];
+	11044 -> 18355;
+	19837	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Asha'th bin 'Abdullah bin Jabir أشعث بن عبد الله بن جابر"];
+	11044 -> 19837;
+	19840	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="Bryd bin Abi Maryam بريد بن أبي مريم مالك"];
+	11044 -> 19840;
+	19904	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="al-Hakam bin Aban الحكم بن أبان العدني"];
+	11044 -> 19904;
+	24096	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Hmad bin Ja'far bin Zayd حماد بن جعفر بن زيد"];
+	11044 -> 24096;
+	25363	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Yazid bin 'Abdullah يزيد بن عبد الله الشيباني أبو عبد"];
+	11044 -> 25363;
+	17532	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="'Amr bin Muhajir bin 'Abi Muslim عمرو بن المهاجر بن أبي مسلم"];
+	17066 -> 17532;
+	20637	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Muhammad bin Muhajir bin Abi Muslim محمد بن مهاجر"];
+	17066 -> 20637;
+	11015	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Ayoub al-Sakhtiyani أيوب السختياني"];
+	11449 -> 11015;
+	11062	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Yahya bin Sa'id al-Ansari يحيى بن سعيد الأنصاري"];
+	11449 -> 11062;
+	20024	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="thiqah thiqah",
+		name="'Abdur Rahman bin 'Amr al-Awza'i عبد الرحمن بن عمرو أبو عمرو الأوزاعي"];
+	11449 -> 20024;
+	11278	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="al-Husain bin Dhakwan al-Mua'lam الحسين بن ذكوان المعلم المكتب"];
+	11449 -> 11278;
+	20115	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="thiqah thiqah",
+		name="Ma'mar bin Rashid معمر بن راشد"];
+	11449 -> 20115;
+	11311	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Hisham bin Hassan al-Azdi هشام بن حسان الأزدي القردوسي"];
+	11449 -> 11311;
+	20295	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Hisham bin Abi 'Abdullah al-Dastawa'i هشام بن أبي عبد الله الدستوائي"];
+	11449 -> 20295;
+	20297	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Hmam bin Yahya bin Dinar همام بن يحيى بن دينار"];
+	11449 -> 20297;
+	20412	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Ayoub bin al-Njar bin Ziyad أيوب بن النجار بن زياد"];
+	11449 -> 20412;
+	20220	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Harb bin Shadaad al-Yashkari حرب بن شداد اليشكري"];
+	11449 -> 20220;
+	11277	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="thiqah thiqah",
+		name="Hjaj bin Abi 'Uthman حجاج بن أبي عثمان"];
+	11449 -> 11277;
+	20240	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Shayban bin 'Abdur Rahman شيبان بن عبد الرحمن النحوي أبو معاوية"];
+	11449 -> 20240;
+	10704	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="'Ikrama bin 'Ammar عكرمة بن عمار العجلي أبو عمار اليمامي"];
+	11449 -> 10704;
+	20449	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Ali bin al-Mubark al-Hna'iy علي بن المبارك الهنائي"];
+	11449 -> 20449;
+	20718	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="'Imran bin Da'ud al-'Ami Abu al-'Awwam عمران بن داود العمي أبو العوام القطان"];
+	11449 -> 20718;
+	10690	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Salah bin Rastum, Abu 'Amir al-Khazaz صالح بن رستم المزني  أبو عامر الخزاز"];
+	11449 -> 10690;
+	10706	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="sadooq/delusion",
+		name="'Umar bin 'Amir al-Slmy عمر بن عامر السلمي"];
+	11449 -> 10706;
+	14075	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Hjaj bin Frafs'h حجاج بن فرافصة الباهلي"];
+	11449 -> 14075;
+	19127	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="sadooq/delusion",
+		name="al-Walid bin Jmyl الوليد بن جميل"];
+	11449 -> 19127;
+	20435	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="'Abdullah bin Yahya bin Abi Kathir عبد الله بن يحيى بن أبي كثير اليمامي"];
+	11449 -> 20435;
+	24007	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Ibrahim bin Abd إبراهيم بن عبد الملك البصري"];
+	11449 -> 24007;
+	24215	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="al-Dhak bin Nbras الضحاك بن نبراس"];
+	11449 -> 24215;
+	24418	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Mbark bin Sa'id al-Ymamy مبارك بن سعيد اليمامي"];
+	11449 -> 24418;
+	28086	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Jhdm bin 'Abdullah bin Aby جهضم بن عبد الله"];
+	11449 -> 28086;
+	28143	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Hameed bin Abi Hameed (Mahran) حميد بن أبي حميد مهران الخياط"];
+	11449 -> 28143;
+	28634	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Yahya bin 'Abdul 'Aziz يحيى بن عبد العزيز"];
+	11449 -> 28634;
+	31657	[gender=m,
+		generation="3rd Century AH",
+		grade=thiqah,
+		name="Muhammad bin Husayn محمد بن حصين"];
+	12057 -> 31657;
+	11107	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Ibn Ishaq محمد بن إسحاق بن يسار‎"];
+	12057 -> 11107;
+	11289	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="Sulaiman bin Tarkhan al-Taymi سليمان بن طرخان التيمي"];
+	11019 -> 11289;
+	11272	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Jarir bin Hazim bin Zayd جرير بن حازم بن زيد"];
+	11019 -> 11272;
+	20020	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="thiqah thiqah",
+		name="Shu'bah bin al-Hajjaj شعبة بن الحجاج"];
+	11019 -> 20020;
+	20359	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Mas'ar bin Kadam مسعر بن كدام"];
+	11019 -> 20359;
+	11616	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Yonus bin Abi al-Farat al-Askaf يونس بن أبي الفرات - الإسكاف"];
+	11019 -> 11616;
+	20377	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Amr bin al-Harith bin Ya'qub عمرو بن الحارث"];
+	11019 -> 20377;
+	20550	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Salam bin Abi Mut'ia سلام بن أبي مطيع"];
+	11019 -> 20550;
+	11073	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="thiqah thiqah",
+		name="Sa'id bin Abi 'Aruba سعيد بن أبي عروبة"];
+	11019 -> 11073;
+	20021	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="Hammad bin Salama حماد بن سلمة"];
+	11019 -> 20021;
+	24326	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="'Umar bin Ibrahim al-Bdy عمر بن إبراهيم العبدي"];
+	11019 -> 24326;
+	11301	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Qurrah bin Khalid al-Sadusi قرة بن خالد السدوسي"];
+	11019 -> 11301;
+	11444	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Mnswr bin Zadhan منصور بن زاذان"];
+	11019 -> 11444;
+	20023	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="thiqah thiqah",
+		name="al-Laith bin Sa'd الليث بن سعد"];
+	11019 -> 20023;
+	20469	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Wadah bin 'Abdullah al-Yashkari وضاح بن عبد الله اليشكري  أبو عوانة"];
+	11019 -> 20469;
+	10809	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Ghylan bin Jam' bin Ash'th غيلان بن جامع بن أشعث المحاربي"];
+	11019 -> 10809;
+	11169	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Sa'id bin Abi Hilal سعيد بن أبي هلال الليثي"];
+	11019 -> 11169;
+	11304	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="al-Muthna bin Sa'id al-Daba'i المثنى بن سعيد الضبعي"];
+	11019 -> 11304;
+	11581	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Hajjaj bin Hajjaj al-Bahli حجاج بن حجاج الباهلي البصري"];
+	11019 -> 11581;
+	11586	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="thiqah thiqah",
+		name="Rwh bin al-Qasim al-Tmymy روح بن القاسم التميمي العنبري"];
+	11019 -> 11586;
+	14206	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=maqbool,
+		name="'Abdullah bin Jabir عبد الله بن جابر أبو حمزة ويقال"];
+	11019 -> 14206;
+	14334	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="sadooq/delusion",
+		name="Ka'b bin 'Abdullah كعب بن عبد الله وقيل بن فروخ"];
+	11019 -> 14334;
+	19193	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Y'aqub bin al-Q'qa' bin al-A'lm يعقوب بن القعقاع بن الأعلم الأزدي"];
+	11019 -> 19193;
+	20234	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Saleem bin Hiyyan سليم بن حيان"];
+	11019 -> 20234;
+	20237	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Salam bin Mskyn bin Rabi'ya سلام بن مسكين بن ربيعة"];
+	11019 -> 20237;
+	20242	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="'Aabad bin Rashid al-Tamimi عباد بن راشد التميمي مولاهم البصري البزا"];
+	11019 -> 20242;
+	20274	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Qrysh bin Hyan al-Jly قريش بن حيان العجلي أبو بكر البصري"];
+	11019 -> 20274;
+	20279	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Muhammad bin Abi Hafs'h محمد بن أبي حفصة ميسرة أبو سلمة"];
+	11019 -> 20279;
+	20534	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Habib bin Abi Habib حبيب بن أبي حبيب الجرمي"];
+	11019 -> 20534;
+	20539	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Khalid bin Qays al-Hadani خالد بن قيس الحداني"];
+	11019 -> 20539;
+	20545	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Slm bin Abi al-Dhyal سلم بن أبي الذيال"];
+	11019 -> 20545;
+	20551	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Shadad bin Sa'id شداد بن سعيد أبو طلحة الراسبي"];
+	11019 -> 20551;
+	20552	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="al-S'q bin Hzn الصعق بن حزن"];
+	11019 -> 20552;
+	20561	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Uzra bin Thabit عزرة بن ثابت بن أبي زيد"];
+	11019 -> 20561;
+	20728	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Abu Khalid al-Dalani أبو خالد الدالاني الأسدي"];
+	11019 -> 20728;
+	24045	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Bkyr bin Abi al-Smyt بكير بن أبي السميط"];
+	11019 -> 24045;
+	24092	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="al-Hakam bin Atyh al-Yshy الحكم بن عطية العيشي"];
+	11019 -> 24092;
+	24105	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Hushab bin 'Aqil al-Jarmi حوشب بن عقيل الجرمي"];
+	11019 -> 24105;
+	24136	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="al-Rabi' bin 'Abdullah الربيع بن عبد الله بن خطاف"];
+	11019 -> 24136;
+	24192	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Suwayd bin Ibrahim al-Jhdry سويد بن إبراهيم الجحدري"];
+	11019 -> 24192;
+	24219	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="'Asim bin Hilal عاصم بن هلال"];
+	11019 -> 24219;
+	24321	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="'Ali bin Ms'd'h al-Bahly علي بن مسعدة الباهلي أبو حبيب البصري"];
+	11019 -> 24321;
+	24331	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="'Umar bin Slym al-Bahly عمر بن سليم الباهلي"];
+	11019 -> 24331;
+	24365	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="al-Fadl bin Dlhm al-Wasty الفضل بن دلهم الواسطي ثم البصري القصاب"];
+	11019 -> 24365;
+	24422	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Marzuq al-Bahali Abu Bakr مرزوق الباهلي أبو بكر"];
+	11019 -> 24422;
+	24449	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Musa bin al-Sa'ib موسى بن السائب"];
+	11019 -> 24449;
+	25072	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="al-Hakam bin Hisham الحكم بن هشام"];
+	11019 -> 25072;
+	25124	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Shhab bin Khrash bin Hwshb شهاب بن خراش بن حوشب"];
+	11019 -> 25124;
+	25155	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Abdul Hameed bin al-Hasan عبد الحميد بن الحسن الهلالي أبو عمر"];
+	11019 -> 25155;
+	27537	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="'Isa bin Ayoub al-Qyny عيسى بن أيوب القيني"];
+	11019 -> 27537;
+	28150	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Khalid bin Ziyad al-Azdi خالد بن زياد الأزدي"];
+	11019 -> 28150;
+	28547	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Muhammad bin Yasar محمد بن يسار"];
+	11019 -> 28547;
+	28556	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Mkhld bin al-Dhak bin Muslim مخلد بن الضحاك بن مسلم الشيباني"];
+	11019 -> 28556;
+	28608	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Harun bin Ibrahim al-Ahwazy هارون بن إبراهيم الأهوازي أبو محمد"];
+	11019 -> 28608;
+	20012	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="thiqah thiqah",
+		name="Sufyan bin Sa‘id Ath-Thawri سفيان الثوري"];
+	10957 -> 20012;
+	20647	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="al-Hasan bin Salah bin Salah الحسن بن صالح بن صالح"];
+	10957 -> 20647;
+	20745	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Y'aqub bin 'Abdullah يعقوب بن عبد الله بن سعد"];
+	10957 -> 20745;
+	20028	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="Jarir bin 'Abdul Hameed al-Razi جرير بن عبد الحميد أبو عبد الله الضبي"];
+	10957 -> 20028;
+	20256	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Abdul Wahid bin Ziyad عبد الواحد بن زياد العبدي"];
+	10957 -> 20256;
+	20320	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Za'ida bin Qadama al-Thaqifi زائدة بن قدامة الثقفي"];
+	10957 -> 20320;
+	20587	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Sharayk bin 'Abdullah شريك بن عبد الله النخعي"];
+	10957 -> 20587;
+	20356	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Muhammad bin Fadayl bin Ghazwan محمد بن فضيل بن غزوان"];
+	10957 -> 20356;
+	20288	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Ma'tmar bin Sulaiman-al-Taufayl معتمر بن سليمان -  الطفيل"];
+	10957 -> 20288;
+	20350	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="al-Qasim bin Malik al-Mzny القاسم بن مالك المزني أبو جعفر الكوفي"];
+	10957 -> 20350;
+	11613	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="Musa bin Nafi', Abu Shahab al-Hanat موسى بن نافع الأسدي أبو شهاب الحناط"];
+	10957 -> 11613;
+	20102	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="'Abdullah bin Idris bin Yazid al-Audi عبد الله بن إدريس بن يزيد الأودي"];
+	10957 -> 20102;
+	20423	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Khalid bin 'Abdullah al-Tahan خالد بن عبد الله بن عبد الرحمن الطحان"];
+	10957 -> 20423;
+	20327	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Abu al-Ahwus, Salam bin Sulaym al-Hanafi أبو الأحوص سلام بن سليم الحنفي"];
+	10957 -> 20327;
+	20017	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Imran bin 'Uyaynah عمران بن عيينة"];
+	10957 -> 20017;
+	20200	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="Fadayl bin 'Iyyad bin Mas'ud فضيل بن عياض بن مسعود"];
+	10957 -> 20200;
+	20269	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="sadooq/delusion",
+		name="al-Fadl bin al-'Ala' Abu al-'Abbas الفضل بن العلاء أبو العباس"];
+	10957 -> 20269;
+	20317	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Hafs bin Ghyath حفص بن غياث"];
+	10957 -> 20317;
+	20362	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Huraym bin Sufyan al-Bajli هريم بن سفيان البجلي"];
+	10957 -> 20362;
+	20368	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Yahya bin al-Mhlb al-Bjly يحيى بن المهلب البجلي أبو كدينة"];
+	10957 -> 20368;
+	20417	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Hisan bin Ibrahim حسان بن إبراهيم"];
+	10957 -> 20417;
+	20445	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Ubaidullah bin 'Amr bin Abi Walid عبيد الله بن عمرو بن أبي الوليد"];
+	10957 -> 20445;
+	20596	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Ammar bin Muhammad al-Thawri عمار بن محمد الثوري أبو اليقظان الكوفي"];
+	10957 -> 20596;
+	20599	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Qtbh bin 'Abdul 'Aziz قطبة بن عبد العزيز بن سياه"];
+	10957 -> 20599;
+	20602	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Muhammad bin Za'id'h al-Tmymy محمد بن زائدة التميمي أبو هشام الكوفي"];
+	10957 -> 20602;
+	20616	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Yahya bin Ya'la يحيى بن يعلى  أبو المحياة"];
+	10957 -> 20616;
+	20746	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Abu Ja'far al-Razi أبو جعفر الرازي"];
+	10957 -> 20746;
+	25037	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Tha'laba bin Suhayl al-Tamimi al-Tahwi ثعلبة بن سهيل التميمي الطهوي"];
+	10957 -> 25037;
+	25147	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="'Abdullah bin 'Abdul Quddus عبد الله بن عبد القدوس"];
+	10957 -> 25147;
+	25252	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Muhammad bin Isma'il bin Rja'a محمد بن إسماعيل بن رجاء"];
+	10957 -> 25252;
+	25304	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="al-Mtlb bin Ziyad bin Aby المطلب بن زياد بن أبي زهير الثقفي"];
+	10957 -> 25304;
+	27509	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Khalid bin Yazid al-Slmy خالد بن يزيد السلمي"];
+	10957 -> 27509;
+	28095	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Hudayj bin Mua'wiya bin Hudyaj حديج بن معاوية بن حديج"];
+	10957 -> 28095;
+	28328	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Abdur Rahman bin Sulaiman عبد الرحمن بن سليمان بن أبي الجون"];
+	10957 -> 28328;
+	28417	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Ali bin Fdyl bin Ayad علي بن فضيل بن عياض"];
+	10957 -> 28417;
+	28572	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Mua'wiya bin Yahya معاوية بن يحيى"];
+	10957 -> 28572;
+	11060	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="thiqah thiqah",
+		name="Sulaiman al-A'mash الأعمش / سليمان بن مهران"];
+	11358 -> 11060;
+	11067	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="thiqah thiqah",
+		name="Mansur bin al-Ma'tamar al-Salmi منصور بن المعتمر بن عبد الله السلمي"];
+	11358 -> 11067;
+	11029	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="'Ata' bin Abi Rabah عطاء بن أبي رباح"];
+	11358 -> 11029;
+	20005	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="Sufyan bin 'Uyaynah سفيان بن عيينة"];
+	11358 -> 20005;
+	20022	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="Hammad bin Zayd حماد بن زيد بن درهم الأزدي الأزرق"];
+	11358 -> 20022;
+	11410	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Marthad bin 'Abdullah al-Yazni مرثد بن عبد الله اليزني"];
+	11358 -> 11410;
+	20373	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Abu Bakr bin 'Ayyash al-Asadi أبو بكر بن عياش بن سالم الأسدي"];
+	11358 -> 20373;
+	10803	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="'Amr bin Qays al-Mala'i عمرو بن قيس الملائي"];
+	11358 -> 10803;
+	11001	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Abu Hanifa أبو حنيفة‎‎"];
+	11358 -> 11001;
+	11718	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Fatr bin Khalifa فطر بن خليفة"];
+	11358 -> 11718;
+	15121	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="no doubt",
+		name="Khalid bin Kathir al-Hmdany خالد بن كثير الهمداني الكوفي"];
+	11358 -> 15121;
+	18723	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=maqbool,
+		name="Arfjh bin Abd al-Wahd عرفجة بن عبد الواحد الأسدي"];
+	11358 -> 18723;
+	20014	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Muburak bin Sa‘id Ath-Thawri مبارك بن سعيد الثوري"];
+	11358 -> 20014;
+	20230	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Ziyad bin al-Rabi' al-Yhmdy زياد بن الربيع اليحمدي"];
+	11358 -> 20230;
+	20311	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Isra'il bin Yonus bin Abi Ishaq إسرائيل بن يونس بن أبي إسحاق"];
+	11358 -> 20311;
+	20336	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Abdul Malik bin Hameed bin Abi Ghaniya عبد الملك بن حميد بن أبي غنية"];
+	11358 -> 20336;
+	20437	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Abd Rabah bin Nafi',Abu Shahab al-Hanat عبد ربه بن نافع  أبو شهاب الحناط"];
+	11358 -> 20437;
+	20458	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Muhammad bin Maymun, Abu Hamza محمد بن ميمون المروزي أبو حمزة السكري"];
+	11358 -> 20458;
+	20593	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Ali bin Salah bin Salah علي بن صالح بن صالح بن حي"];
+	11358 -> 20593;
+	20726	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Amr bin Abi Qays عمرو بن أبي قيس الرازي الأزرق كوفي"];
+	11358 -> 20726;
+	24180	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=undefined,
+		name="Sulaiman bin Qrm سليمان بن قرم"];
+	11358 -> 24180;
+	24193	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Salam bin Sulaiman al-Mzny سلام بن سليمان المزني"];
+	11358 -> 24193;
+	25149	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="'Abdullah bin 'Amr عبد الله بن عمرو بن مرة المرادي"];
+	11358 -> 25149;
+	25151	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Abdullah bin al-Walid عبد الله بن الوليد بن عبد الله"];
+	11358 -> 25151;
+	25185	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="'Ubaid'h bin Abi Ra'ith عبيدة بن أبي رائطة"];
+	11358 -> 25185;
+	25330	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="N'ym bin Mysrh نعيم بن ميسرة"];
+	11358 -> 25330;
+	28240	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Suh'aib bin Khalid al-Bjly شعيب بن خالد البجلي الرازي"];
+	11358 -> 28240;
+	18897	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Muhammad bin Jahada محمد بن جحادة"];
+	11069 -> 18897;
+	11049	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Abu Ishaq al-Sabay'ai' أبو إسحاق السبيعي عمرو بن عبد الله"];
+	11069 -> 11049;
+	11352	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Sulaiman bin Abi Sulaiman سليمان بن أبي سليمان"];
+	11069 -> 11352;
+	11340	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Zayd bin Abi Anisa زيد بن أبي أنيسة"];
+	11069 -> 11340;
+	11395	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Matruf bin Tarayf al-Harithi مطرف بن طريف"];
+	11069 -> 11395;
+	11624	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="al-Hasan bin 'Amr al-Fqymy الحسن بن عمرو الفقيمي"];
+	11069 -> 11624;
+	11647	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="al-'Ala' bin al-Msyb bin Rafa'i العلاء بن المسيب بن رافع"];
+	11069 -> 11647;
+	15088	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="al-Hasan bin al-Hr bin al-Hakam الحسن بن الحر بن الحكم"];
+	11069 -> 15088;
+	15205	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=sadooq,
+		name="Salmah bin Tamam al-Shaqri سلمة بن تمام أبو عبد الله الشقري"];
+	11069 -> 15205;
+	15482	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Muhammad bin Khalid al-Dby محمد بن خالد الضبي"];
+	11069 -> 15482;
+	15597	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="al-Haytham bin Habib الهيثم بن حبيب الصيرفي"];
+	11069 -> 15597;
+	19877	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="'Ali bin Abd al-A'la علي بن عبد الأعلى"];
+	11069 -> 19877;
+	20166	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="'Abdul 'Aziz bin 'Umar bin 'Abdul-'Aziz عبد العزيز بن عمر بن عبد العزيز"];
+	11069 -> 20166;
+	20335	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="'Abdul 'Aziz bin Syah al-'Asady عبد العزيز بن سياه"];
+	11069 -> 20335;
+	20358	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Malik bin Mghwl مالك بن مغول"];
+	11069 -> 20358;
+	20577	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Aban bin Tghlb أبان بن تغلب"];
+	11069 -> 20577;
+	20583	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Hamza bin Habib al-Zayat حمزة بن حبيب الزيات"];
+	11069 -> 20583;
+	20605	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Muhammad bin Qays al-'Asady محمد بن قيس الأسدي الوالبي"];
+	11069 -> 20605;
+	20655	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Sufyan bin Hussain bin al-Hasan سفيان بن حسين السلمي"];
+	11069 -> 20655;
+	20737	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Hjaj bin Dinar حجاج بن دينار"];
+	11069 -> 20737;
+	21315	[gender=m,
+		generation="Succ. (Taba' Tabi')",
+		grade=thiqah,
+		name="al-Slt bin al-Hjaj Kwfa الصلت بن الحجاج"];
+	11069 -> 21315;
+	25021	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Isma'il bin Khalifa al-'Absi al-Mala'i إسماعيل بن خليفة العبسي الملائي"];
+	11069 -> 25021;
+	25224	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="al-'Ala' bin Salah al-Tymy العلاء بن صالح التيمي"];
+	11069 -> 25224;
+	25248	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Kaml bin al-'Ala' al-Tmymy كامل بن العلاء التميمي"];
+	11069 -> 25248;
+	25317	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Musa bin 'Umayr al-Tmymy موسى بن عمير التميمي العنبري الكوفي"];
+	11069 -> 25317;
+	25377	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Abu Na'eem al-Nakha'i (Older) أبو نعيم النخعي الكبير"];
+	11069 -> 25377;
+	11279	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Hameed bin Abi Hameed حميد بن أبي حميد الطويل"];
+	11269 -> 11279;
+	20532	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Ja'far bin Sulaiman al-Daba'i جعفر بن سليمان الضبعي"];
+	11269 -> 20532;
+	20236	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="thiqah thiqah",
+		name="Sulaiman bin al-Mughira al-Qaysy سليمان بن المغيرة القيسي مولاهم"];
+	11269 -> 20236;
+	11607	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="'Isa bin Thman عيسى بن طهمان"];
+	11269 -> 11607;
+	11599	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="'Abdullah bin al-Muthna عبد الله بن المثنى"];
+	11269 -> 11599;
+	10643	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="'Abdullah bin 'Ubaid bin 'Umayr عبد الله بن عبيد بن عمير"];
+	11269 -> 10643;
+	11075	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Yonus bin 'Ubaid bin Dinar يونس بن عبيد بن دينار العبدي"];
+	11269 -> 11075;
+	11191	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="'Abd Rabba bin Sa'id bin Qays bin 'Amr عبد ربه بن سعيد بن قيس"];
+	11269 -> 11191;
+	11201	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="thiqah thiqah",
+		name="'Ubaidullah bin 'Umar bin Hafs عبيد الله بن عمر بن حفص بن عاصم"];
+	11269 -> 11201;
+	11429	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Siyar Abu al-Hakam al-Anzi سيار أبو الحكم العنزي"];
+	11269 -> 11429;
+	11626	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Rqbh bin Msqlh bin Abd رقبة بن مسقلة"];
+	11269 -> 11626;
+	11703	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="'Abdul Hameed bin Dinar al-Ziyadi عبد الحميد بن دينار صاحب الزيادي"];
+	11269 -> 11703;
+	14299	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="al-Awwam bin Hamza al-Maazni العوام بن حمزة المازني البصري"];
+	11269 -> 14299;
+	20252	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Abdul 'Aziz bin al-Mukhtar عبد العزيز بن المختار"];
+	11269 -> 20252;
+	20284	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Marhum bin 'Abdul 'Aziz bin Mahran مرحوم بن عبد العزيز بن مهران العطار"];
+	11269 -> 20284;
+	20289	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Mnswr bin Sa'd al-Basri منصور بن سعد البصري صاحب اللؤلؤ"];
+	11269 -> 20289;
+	20293	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Harun bin Musa al-Nahvi هارون بن موسى أبو عبد الله النحوي"];
+	11269 -> 20293;
+	20533	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="al-Harith bin 'Ubaid al-Ayadi الحارث بن عبيد الإيادي"];
+	11269 -> 20533;
+	20585	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Ziyad bin Khaythama al-Ja'fi زياد بن خيثمة الجعفي"];
+	11269 -> 20585;
+	20715	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="'Abdullah bin Shwdhb عبد الله بن شوذب الخراساني أبو عبد"];
+	11269 -> 20715;
+	21233	[gender=m,
+		generation="Succ. (Taba' Tabi')",
+		grade=thiqah,
+		name="Kathir bin Ysar Abu al-Fadl كثير بن يسار"];
+	11269 -> 21233;
+	23060	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Mbark bin Hsan al-Slmy مبارك بن حسان السلمي أبو يونس"];
+	11269 -> 23060;
+	24019	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Isma'il bin Suliaman al-Khal al-Dby إسماعيل بن سليمان الكحال"];
+	11269 -> 24019;
+	24042	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Bakr bin al-Hakam بكر بن الحكم"];
+	11269 -> 24042;
+	24064	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Hibban bin Yasar al-Kalabi حبان بن يسار الكلابي"];
+	11269 -> 24064;
+	24101	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Hammad bin Yahya al-Abah حماد بن يحيى الأبح"];
+	11269 -> 24101;
+	24129	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Dylm bin Ghzwan al-Bdy ديلم بن غزوان العبدي"];
+	11269 -> 24129;
+	24130	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Rafa'i bin Salmah bin Ziyad رافع بن سلمة بن زياد"];
+	11269 -> 24130;
+	24135	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="al-Rabi' bin Sbyh الربيع بن صبيح"];
+	11269 -> 24135;
+	24147	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Zakaria bin Yahya bin Amarh زكريا بن يحيى بن عمارة"];
+	11269 -> 24147;
+	24155	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="al-Sry bin Yahya bin Iyas السري بن يحيى بن إياس"];
+	11269 -> 24155;
+	24209	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="sadooq/delusion",
+		name="Sadqa bin Musa al-Daqayqi صدقة بن موسى الدقيقي"];
+	11269 -> 24209;
+	24231	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="'Abdullah bin Hafs عبد الله بن حفص الأرطباني أبو حفص"];
+	11269 -> 24231;
+	24325	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Amarh bin Mhran عمارة بن مهران"];
+	11269 -> 24325;
+	24359	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Ghsan bin Brzyn غسان بن برزين"];
+	11269 -> 24359;
+	24366	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="al-Fadl bin 'Umayra al-Tafawi الفضل بن عميرة الطفاوي"];
+	11269 -> 24366;
+	24379	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Kathir bin Fa'id كثير بن فائد"];
+	11269 -> 24379;
+	24406	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Muhammad bin 'Abdullah al-'Ami محمد بن عبد الله العمي"];
+	11269 -> 24406;
+	24410	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Muhammad bin 'Uthman bin Syar محمد بن عثمان بن سيار"];
+	11269 -> 24410;
+	24424	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Mstwr bin 'Aabad al-Hna'iy مستور بن عباد الهنائي"];
+	11269 -> 24424;
+	24430	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Mtr bin 'Abdur Rahman مطر بن عبد الرحمن"];
+	11269 -> 24430;
+	24452	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade="not thiqah",
+		name="Maymun bin Aban ميمون بن أبان الهذلي"];
+	11269 -> 24452;
+	25085	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Khlad bin 'Isa خلاد بن عيسى"];
+	11269 -> 25085;
+	28286	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="'Abdullah bin al-Zubair عبد الله بن الزبير بن معبد الباهلي"];
+	11269 -> 28286;
+	20187	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Ibrahim bin Tahman إبراهيم بن طهمان"];
+	10672 -> 20187;
+	20571	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Musa bin Thrwan موسى بن ثروان ويقال"];
+	10672 -> 20571;
+	20468	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Hashaym bin Bashayr bin al-Qasim هشيم بن بشير بن القاسم"];
+	11419 -> 20468;
+	20568	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Muslimh bin 'Alqama al-Mazny مسلمة بن علقمة المازني"];
+	11585 -> 20568;
+	11070	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade="thiqah thiqah",
+		name="Ibn Jurayj ابن جريج"];
+	11585 -> 11070;
+	20299	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Wahayb bin Khalid bin 'Ajlan al-Bahli وهيب بن خالد بن عجلان الباهلي"];
+	11585 -> 20299;
+	20258	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Abdul Warith bin Sa'id bin Dhakwan عبد الوارث بن سعيد بن ذكوان"];
+	11585 -> 20258;
+	20246	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Abdul A'ala bin 'Abdul A'ala al-Sami عبد الأعلى بن عبد الأعلى البصري السامي"];
+	11585 -> 20246;
+	20031	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="thiqah thiqah",
+		name="Yahya bin Sa'id bin Farroukh al-Qatan يحيى بن سعيد بن فروخ القطان"];
+	11585 -> 20031;
+	20304	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Yazid bin Zari' يزيد بن زريع"];
+	11585 -> 20304;
+	20472	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Yazid bin Harun يزيد بن هارون"];
+	11585 -> 20472;
+	19838	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Ash'th bin 'Abdul Malik أشعث بن عبد الملك الحمراني"];
+	11585 -> 19838;
+	20235	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Sulaiman bin Khatir al-'Abdi سليمان بن كثير العبدي"];
+	11585 -> 20235;
+	20251	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="thiqah thiqah",
+		name="'Abdul 'Aziz bin 'Abdul Samad عبد العزيز بن عبد الصمد"];
+	11585 -> 20251;
+	20259	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Abdul Wahab bin 'Abdul Majeed al-Thaqaf عبد الوهاب بن عبد المجيد الثقفي"];
+	11585 -> 20259;
+	20261	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Uthman bin Abi Rawud al-Azdi عثمان بن أبي رواد"];
+	11585 -> 20261;
+	20276	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Muhammad bin Abi 'Adi محمد بن أبي عدي"];
+	11585 -> 20276;
+	20281	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Muhammad bin 'Abdur Rahman al-Tafawi محمد بن عبد الرحمن الطفاوي"];
+	11585 -> 20281;
+	20326	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Sulaiman bin Hayan al-Azdi سليمان بن حيان الأزدي"];
+	11585 -> 20326;
+	20345	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Ali bin Ms'hr علي بن مسهر"];
+	11585 -> 20345;
+	20354	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Muhammad bin Khazim al-Darir محمد بن خازم  أبو معاوية الضرير"];
+	11585 -> 20354;
+	20366	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Yahya bin Zakaria bin Abi Zaida يحيى بن زكريا بن أبي زائدة"];
+	11585 -> 20366;
+	20452	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="al-Fadl bin Musa al-Synany الفضل بن موسى السيناني"];
+	11585 -> 20452;
+	20453	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="al-Qasim bin Yahya bin Ata'a القاسم بن يحيى بن عطاء بن مقدم"];
+	11585 -> 20453;
+	20455	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Muhammad bin al-Hasan bin Hilal محمد بن الحسن بن هلال"];
+	11585 -> 20455;
+	20558	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Ubaidullah bin al-Hasan bin al-Husain عبيد الله بن الحسن بن حصين"];
+	11585 -> 20558;
+	20657	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Salah bin 'Umar al-Wasti صالح بن عمر الواسطي"];
+	11585 -> 20657;
+	20744	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="al-Hythm bin Hameed al-Ghsany الهيثم بن حميد الغساني مولاهم أبو أحمد"];
+	11585 -> 20744;
+	24131	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Rabi' bin 'Alayya ربعي بن علية أبو الحسن"];
+	11585 -> 24131;
+	24161	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="sadooq/delusion",
+		name="Sa'id bin Sufyan al-Jhdry سعيد بن سفيان الجحدري"];
+	11585 -> 24161;
+	24395	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Muhammad bin Hmran محمد بن حمران بن عبد العزيز القيسي"];
+	11585 -> 24395;
+	24415	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Muhammad bin Mrwan bin Qdamh محمد بن مروان بن قدامة العقيلي"];
+	11585 -> 24415;
+	24429	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=maqbool,
+		name="Muslimh bin Muhammad al-Thaqifi مسلمة بن محمد الثقفي"];
+	11585 -> 24429;
+	24442	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="al-Mafadal bin 'Abdullah al-Yarbu'ai المفضل بن عبد الله اليربوعي"];
+	11585 -> 24442;
+	24474	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Hilal bin Hq هلال بن حق"];
+	11585 -> 24474;
+	25011	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Ishaq bin al-Rabi' al-Sfry إسحاق بن الربيع العصفري"];
+	11585 -> 25011;
+	25026	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="sadooq/delusion",
+		name="Isma'il bin Muhammad bin Jhad'h إسماعيل بن محمد بن جحادة"];
+	11585 -> 25026;
+	25240	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="al-Qasim bin Ma'n bin 'Abdur Rahman القاسم بن معن بن عبد الرحمن بن عبد الله"];
+	11585 -> 25240;
+	26042	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Musa bin Salmah bin Aby موسى بن سلمة بن أبي مريم المصري"];
+	11585 -> 26042;
+	28413	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="sadooq/delusion",
+		name="'Ali bin 'Asim bin S'hyb علي بن عاصم بن صهيب الواسطي"];
+	11585 -> 28413;
+	20271	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Fdyl bin Sulaiman al-Nmyry فضيل بن سليمان النميري"];
+	10644 -> 20271;
+	20334	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Abdul Rahim bin Sulaiman عبد الرحيم بن سليمان الكناني"];
+	10644 -> 20334;
+	20192	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Da'ud bin 'Abdur Rahman al-'Atar داود بن عبد الرحمن العطار"];
+	10644 -> 20192;
+	23027	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Raja' al-Makki عبد الله بن رجاء المكي أبو عمران"];
+	10644 -> 23027;
+	23029	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Abdullah bin 'Amr bin 'Alqama عبد الله بن عمرو بن علقمة"];
+	10644 -> 23029;
+	23035	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="not thiqah",
+		name="Abd Rbh bin Ata'a عبد ربه بن عطاء"];
+	10644 -> 23035;
+	23040	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="'Ali bin Salah al-Mky علي بن صالح المكي"];
+	10644 -> 23040;
+	23074	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Y'la bin Shbyb يعلى بن شبيب"];
+	10644 -> 23074;
+	23519	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="not thiqah",
+		name="Muhammad bin Abi al-Dyf محمد بن أبي الضيف"];
+	10644 -> 23519;
+	28312	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Waqid bin al-Harith عبد الله بن واقد بن الحارث"];
+	10644 -> 28312;
+	11307	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Mahdi bin Maymun al-Azdi مهدي بن ميمون الأزدي المعولي"];
+	10719 -> 11307;
+	19035	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=sadooq,
+		name="al-Mughira bin Muslim المغيرة بن مسلم القسملي أبو سلمة السراج"];
+	10719 -> 19035;
+	20001	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation] [Maliki]",
+		grade="thiqah thiqah",
+		name="Imam Maalik مالك بن أنس بن مالك بن أبي عامر"];
+	11251 -> 20001;
+	20674	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="Muhammad bin Muslim al-Ta'ifi محمد بن مسلم بن سوسن الطائفي"];
+	11251 -> 20674;
+	10781	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Habib عبد الله بن حبيب بن أبي ثابت"];
+	11251 -> 10781;
+	20428	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Shu'aib bin Abi Hamza شعيب بن أبي حمزة"];
+	11251 -> 20428;
+	16000	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Ibrahim bin Nshyt إبراهيم بن نشيط"];
+	11251 -> 16000;
+	25063	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=maqbool,
+		name="Husayn bin Mnswr bin Hyan حصين بن منصور بن حيان"];
+	11251 -> 25063;
+	20025	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="thiqah thiqah",
+		name="'Abdullah bin Mubarak عبد الله بن المبارك"];
+	28379 -> 20025;
+	20032	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="thiqah thiqah",
+		name="Waki' bin al-Jarrah وكيع بن الجراح"];
+	28379 -> 20032;
+	20347	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="'Isa bin Yonus bin Abi Ishaq عيسى بن يونس بن أبي إسحاق"];
+	28379 -> 20347;
+	20355	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Muhammad bin 'Abdullah bin al-Zubair محمد بن عبد الله أبو أحمد الزبيري"];
+	28379 -> 20355;
+	20224	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Hmad bin Ms'd'h al-Tmymy حماد بن مسعدة التميمي"];
+	28379 -> 20224;
+	20172	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Muhammad bin Abi Fadayk محمد بن إسماعيل بن مسلم بن أبي فديك"];
+	28379 -> 20172;
+	22246	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Yonus bin Yahya bin Nabata يونس بن يحيى بن نباتة"];
+	28379 -> 22246;
+	20260	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Ubaidullah bin Abd عبيد الله بن عبد المجيد"];
+	28379 -> 20260;
+	20164	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Muslima al-Qa'nabi عبد الله بن مسلمة بن قعنب القعنبي"];
+	28379 -> 20164;
+	11374	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="'Alqama bin Mrthd علقمة بن مرثد"];
+	10967 -> 11374;
+	24200	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Shbyb bin 'Abdul Malik شبيب بن عبد الملك"];
+	10967 -> 24200;
+	28003	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Ibrahim bin Ad'hm bin Mnswr إبراهيم بن أدهم بن منصور"];
+	10967 -> 28003;
+	14073	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=sadooq,
+		name="Hjaj bin Hsan al-Qaysy حجاج بن حسان القيسي البصري"];
+	10967 -> 14073;
+	28473	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="'Isa bin Musa Ghanjar عيسى بن موسى غنجار"];
+	10967 -> 28473;
+	20333	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="'Abdur Rahman bin Muhammad al-Maharbi عبد الرحمن بن محمد بن زياد المحاربي"];
+	10967 -> 20333;
+	28068	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Bkyr bin Ma'rwf al-'Asady بكير بن معروف الأسدي"];
+	10967 -> 28068;
+	28439	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="'Umar bin Maymun bin Bhr عمر بن ميمون بن بحر بن سعد"];
+	10967 -> 28439;
+	20244	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="thiqah thiqah",
+		name="'Abdullah bin Bakr عبد الله بن بكر بن حبيب السهمي"];
+	11595 -> 20244;
+	24453	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Maymun bin Musa ميمون بن موسى"];
+	11614 -> 24453;
+	11273	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Abu al-Ashhab al-Atardi جعفر بن حيان أبو الأشهب العطاردي"];
+	11614 -> 11273;
+	24438	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Ma'la bin Rashid al-Hdhly معلى بن راشد الهذلي أبو اليمان النبال"];
+	11614 -> 24438;
+	20527	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Wuhayb bin al-Ward وهيب بن الورد"];
+	13018 -> 20527;
+	20330	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Da'ud al-Kharaybi عبد الله بن داود أبو عبد الرحمن الخريبي"];
+	13080 -> 20330;
+	20277	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Muhammad bin Bakr bin 'Uthman al-Barsani محمد بن بكر بن عثمان البرساني"];
+	13080 -> 20277;
+	20241	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="al-Dahhak bin Mukhlad Abu 'Asim al-Nabil الضحاك بن مخلد أبو عاصم النبيل"];
+	13080 -> 20241;
+	20446	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade="sadooq/delusion",
+		name="'Atab bin Bashayr عتاب بن بشير"];
+	13080 -> 20446;
+	20459	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Muhammad bin al-Walid al-Zubaidi محمد بن الوليد بن عامر الزبيدي"];
+	14177 -> 20459;
+	20232	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Sa'id bin 'Amir al-Dab'ai سعيد بن عامر الضبعي"];
+	14177 -> 20232;
+	14259	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="not thiqah",
+		name="'Ubaid'h bin Bilal عبيدة بن بلال"];
+	14313 -> 14259;
+	20742	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Mstlm bin Sa'id al-Thqfy al-Wasty مستلم بن سعيد الثقفي"];
+	14356 -> 20742;
+	20257	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Abdul Wahid bin Wasil عبد الواحد بن واصل أبو عبيدة الحداد"];
+	14356 -> 20257;
+	20229	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Ruh bin 'Ubada bin al-'Ala' روح بن عبادة بن العلاء"];
+	14356 -> 20229;
+	11286	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="Sa'id bin Iyas al-Jariri سعيد بن إياس الجريري"];
+	14469 -> 11286;
+	11381	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade=thiqah,
+		name="'Amr bin Murrah bin 'Abdullah عمرو بن مرة بن عبد الله بن طارق"];
+	15238 -> 11381;
+	28120	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="Hafs bin Hameed al-Qami حفص بن حميد القمي"];
+	15238 -> 28120;
+	20547	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="thiqah thiqah",
+		name="Sulaiman bin Da'ud bin al-Jarud سليمان بن داود أبو داود الطيالسي"];
+	18355 -> 20547;
+	23033	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Abdullah bin Yazid al-'Advi عبد الله بن يزيد العدوي المقري القصير"];
+	18355 -> 23033;
+	20286	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Mua'dh bin Mua'dh bin Nsr معاذ بن معاذ بن نصر"];
+	19837 -> 20286;
+	24031	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Bstam bin Hryth بسطام بن حريث"];
+	19837 -> 24031;
+	20280	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="Muhammad bin 'Abdullah al-Ansari محمد بن عبد الله بن المثني - الأنصاري"];
+	19837 -> 20280;
+	20720	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=thiqah,
+		name="Nasr bin 'Ali bin Asbahan نصر بن علي الجهضمي الكبير"];
+	19837 -> 20720;
+	10846	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="sadooq/delusion",
+		name="Yonus bin Abi Ishaq يونس بن أبي إسحاق"];
+	19840 -> 10846;
+	11591	[gender=m,
+		generation="Follower(Tabi') [6th generation]",
+		grade=thiqah,
+		name="Salm bin Zarayr al-'Atardi سلم بن زرير العطاردي"];
+	19840 -> 11591;
+	20471	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Yazid bin Abi Hkym يزيد بن أبي حكيم"];
+	19904 -> 20471;
+	28591	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Musa bin 'Abdul 'Aziz موسى بن عبد العزيز"];
+	19904 -> 28591;
+	22071	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=sadooq,
+		name="Slm bin Ja'far al-Bakrawy سلم بن جعفر البكراوي"];
+	19904 -> 22071;
+	24469	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=maqbool,
+		name="Hadhayl bin al-Hakam هذيل بن الحكم الأزدي"];
+	19904 -> 24469;
+	30261	[gender=m,
+		generation="3rd Century AH [10th generation]",
+		grade=thiqah,
+		name="'Ali bin Muslim bin Sa'id علي بن مسلم بن سعيد الطوسي"];
+	24096 -> 30261;
+	20351	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Qabaysa bin 'Uqba bin Muhammad قبيصة بن عقبة بن محمد بن سفيان"];
+	25363 -> 20351;
+	20348	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="thiqah thiqah",
+		name="al-Fadl bin Dakayn, Abu Na'eem الفضل بن دكين أبو نعيم الملائي"];
+	25363 -> 20348;
+	20402	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="Yahya bin Hamza bin Waqd يحيى بن حمزة بن واقد"];
+	17532 -> 20402;
+	27530	[gender=m,
+		generation="Succ. (Taba' Tabi') [7th generation]",
+		grade=sadooq,
+		name="'Uthman bin Abi al-Atk'h عثمان بن أبي العاتكة سليمان الأزدي"];
+	17532 -> 27530;
+	28387	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=thiqah,
+		name="'Uthman bin Hasan bin 'Alaq عثمان بن حصن بن علاق"];
+	17532 -> 28387;
+	20463	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade="sadooq/delusion",
+		name="Mskyn bin Bkyr al-Hrany مسكين بن بكير الحراني أبو عبد الرحمن"];
+	20637 -> 20463;
+	20470	[gender=m,
+		generation="Succ. (Taba' Tabi') [9th generation]",
+		grade=sadooq,
+		name="Yahya bin Salah al-Wahadi يحيى بن صالح الوحاظي أبو زكريا"];
+	20637 -> 20470;
+	20733	[gender=m,
+		generation="Succ. (Taba' Tabi') [8th generation]",
+		grade=thiqah,
+		name="al-Walid bin Muslim al-Quraishi الوليد بن مسلم القرشي"];
+	20637 -> 20733;
+}
