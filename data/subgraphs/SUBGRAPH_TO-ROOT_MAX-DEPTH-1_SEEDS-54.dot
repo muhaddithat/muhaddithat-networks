@@ -1,0 +1,116 @@
+strict digraph "" {
+	54	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Hafsa bint Umar ( حفصة بنت عمر بن الخطاب أم المؤمنين ( رضي الله عنها"];
+	18	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="ibn Umar ( عبد الله بن عمر بن الخطاب ( رضي الله عنه"];
+	54 -> 18;
+	11818	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Hamza bin 'Abdullah bin 'Umar حمزة بن عبد الله بن عمر بن الخطاب"];
+	54 -> 11818;
+	11811	[gender=f,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade="thiqah thiqah",
+		name="Safiyya bint Abi 'Ubaid al-Thaqafi صفية بنت أبي عبيد بن مسعود الثقفية"];
+	54 -> 11811;
+	1293	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Umm Mubashir al-Ansariyya ( أم مبشر الأنصارية ( رضي الله عنها"];
+	54 -> 1293;
+	5295	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="al-Mtlb bin Abi Wda'h ( المطلب بن أبي وداعة الحارث ( رضي الله عنه"];
+	54 -> 5295;
+	4109	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Harithh bin Wahb al-Khza'y ( حارثة بن وهب الخزاعي ( رضي الله عنه"];
+	54 -> 4109;
+	10773	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade=thiqah,
+		name="Shtyr bin Shkl bin Hameed شتير بن شكل"];
+	54 -> 10773;
+	487	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdullah bin Safwan bin Umayyah ( عبد الله بن صفوان بن أمية ( رضي الله عنه"];
+	54 -> 487;
+	18400	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Swa'a al-Khza'y Akhw Mghyth سواء الخزاعي أخو"];
+	54 -> 18400;
+	448	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdur Rahman ibn al-Harith ( عبد الرحمن بن الحارث بن هشام ( رضي الله عنه"];
+	54 -> 448;
+	11394	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="al-Musayb bin Rafa'i al-Asadi المسيب بن رافع الأسدي الكاهلي أبو العلاء"];
+	54 -> 11394;
+	11313	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Lahaaq bin Hameed bin Sa'id لاحق بن حميد بن سعيد أبو مجلز"];
+	54 -> 11313;
+	2007	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="al-Harith bin 'Abdullah bin Abi Rabi'a ( الحارث بن عبد الله بن أبي ربيعة ( رضي الله عنه"];
+	54 -> 2007;
+	5408	[gender=m,
+		generation="Comp.(RA) [2nd Generation]",
+		grade=undefined,
+		name="Hunayda bin Khalid ( هنيدة بن خالد الخزاعي ( رضي الله عنه"];
+	54 -> 5408;
+	11226	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade="thiqah thiqah",
+		name="Abu Rafi' al-Sa'agh نفيع بن رافع أبو رافع الصائغ"];
+	54 -> 11226;
+	11416	[gender=m,
+		generation="Follower(Tabi') [1st Generation]",
+		grade="no doubt",
+		name="Aslam Client Of 'Umar أسلم مولى عمر"];
+	54 -> 11416;
+	11547	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Abu Bakr bin Suliaman bin Abi Hathma أبو بكر بن سليمان بن أبي حثمة"];
+	54 -> 11547;
+	3	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Umar ibn al-Khattab ( عمر بن الخطاب بن نفيل ( رضي الله عنه"];
+	3 -> 54;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 54;
+	2	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Abu Bakr As-Siddique ( أبو بكر الصديق ( رضي الله عنه"];
+	2 -> 3;
+	24	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Bilal ibn Ribah ( بلال بن رباح الحبشي المؤذن ( رضي الله عنه"];
+	24 -> 3;
+	39	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Ubayy ibn Ka'b ( أبي بن كعب بن قيس ( رضي الله عنه"];
+	39 -> 3;
+}

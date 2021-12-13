@@ -1,0 +1,91 @@
+strict digraph "" {
+	59	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Umm Habibah bint Abi Sufyan ( أم حبيبة ,رملة بنت أبي سفيان ( رضي الله عنها"];
+	27	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Mu'awiya ibn Abu Sufyan ( معاوية بن أبي سفيان ( رضي الله عنه"];
+	59 -> 27;
+	139	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Habibah bint Ubayd-Allah ( حبيبة بنت أم حبيبة بنت أبي سفيان  ( رضي الله عنها"];
+	59 -> 139;
+	244	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Zaynab bint Abi Salamah ( زينب بنت أبي سلمة  ( رضي الله عنها"];
+	59 -> 244;
+	10511	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="'Urwa ibn al-Zubayr عروة بن الزبير"];
+	59 -> 10511;
+	11716	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="'Unbasa bin Sa'id bin al-Aas عنبسة بن سعيد بن العاص بن سعيد"];
+	59 -> 11716;
+	846	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Unbasa bin Abi Sufyan ( عنبسة بن أبي سفيان بن حرب بن أمية ( رضي الله عنه"];
+	59 -> 846;
+	2802	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Safiyya bint Shayba bin 'Uthman ( صفية بنت شيبة بن عثمان العبدرية ( رضي الله عنها"];
+	59 -> 2802;
+	11044	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Shar bin Hushab al-Asha'ri شهر بن حوشب الأشعري"];
+	59 -> 11044;
+	11161	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Dhakwan Abu Salah al-Saman al-Ziyat ذكوان أبو صالح السمان الزيات"];
+	59 -> 11161;
+	11394	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="al-Musayb bin Rafa'i al-Asadi المسيب بن رافع الأسدي الكاهلي أبو العلاء"];
+	59 -> 11394;
+	11898	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="'Umar bin al-Hakam bin Rafa'i عمر بن الحكم بن رافع بن سنان"];
+	59 -> 11898;
+	12624	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Abu Sufyan bin Sa'id أبو سفيان بن سعيد"];
+	59 -> 12624;
+	19228	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Abu al-Jrah Mwla Am أبو الجراح مولى أم"];
+	59 -> 19228;
+	57	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Zaynab bint Jahsh ( زينب بنت جحش الأسدية أم المؤمنين ( رضي الله عنها"];
+	57 -> 59;
+	5172	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Arbad bin Sariyya al-Salmi ( عرباض بن سارية السلمي ( رضي الله عنه"];
+	5172 -> 59;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 59;
+	10	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Abu 'Ubaidah ibn al-Jarrah ( أبو عبيدة بن الجراح ( رضي الله عنه"];
+	10 -> 5172;
+}

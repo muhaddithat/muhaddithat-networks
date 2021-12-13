@@ -1,0 +1,56 @@
+strict digraph "" {
+	71	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Umm Atiyyah Ansariyah ( أم عطية الأنصارية ( رضي الله عنها"];
+	19	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Anas bin Malik ( أنس بن مالك بن النضر ( رضي الله عنه"];
+	71 -> 19;
+	11035	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Ibn Sirin محمد بن سيرين الأنصاري"];
+	71 -> 11035;
+	11039	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Hafsa bint Sirin حفصة بنت سيرين"];
+	71 -> 11039;
+	11368	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="'Abdul Malik bin 'Umayr al-Qabti عبد الملك بن عمير بن سويد القبطي"];
+	71 -> 11368;
+	11375	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="'Ali bin al-Aqmar bin 'Amr علي بن الأقمر بن عمرو"];
+	71 -> 11375;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 71;
+	3	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Umar ibn al-Khattab ( عمر بن الخطاب بن نفيل ( رضي الله عنه"];
+	3 -> 71;
+	2	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Abu Bakr As-Siddique ( أبو بكر الصديق ( رضي الله عنه"];
+	2 -> 3;
+	24	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Bilal ibn Ribah ( بلال بن رباح الحبشي المؤذن ( رضي الله عنه"];
+	24 -> 3;
+	39	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Ubayy ibn Ka'b ( أبي بن كعب بن قيس ( رضي الله عنه"];
+	39 -> 3;
+}

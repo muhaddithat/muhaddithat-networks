@@ -1,0 +1,66 @@
+strict digraph "" {
+	69	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Asma bint 'Umays ( أسماء بنت عميس بن معد ( رضي الله عنها"];
+	108	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdullah ibn Ja'far ( عبد الله بن جعفر بن أبي طالب ( رضي الله عنه"];
+	69 -> 108;
+	10535	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="al-Qasim ibn Muhammad القاسم بن محمد بن أبي بكر الصديق"];
+	69 -> 10535;
+	17	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="ibn Abbas ( عبد الله بن العباس بن عبد المطلب  الحبر ( رضي الله عنه"];
+	69 -> 17;
+	168	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Muhammad ibn Abi Bakr ( محمد بن أبي بكر الصديق ( رضي الله عنه"];
+	69 -> 168;
+	169	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdullah ibn Shaddad ( عبد الله بن شداد بن الهاد الليثي ( رضي الله عنه"];
+	69 -> 169;
+	11002	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade="thiqah thiqah",
+		name="Sa'id ibn al-Musayyib سعيد بن المسيب بن حزن أبو محمد القرشي"];
+	69 -> 11002;
+	11003	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="Abu Bakr bin 'Abdur Rahman أبو بكر بن عبد الرحمن بن الحارث بن هشام"];
+	69 -> 11003;
+	11052	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="'Amir al-Sha'bi عامر الشعبي"];
+	69 -> 11052;
+	11552	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=maqbool,
+		name="Abu Yazid al-Madni أبو يزيد المدني"];
+	69 -> 11552;
+	19555	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Umm Awn أم عون"];
+	69 -> 19555;
+	19828	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade=sadooq,
+		name="'Ubaid bin Rifa'a bin Rafi' bin Malik عبيد بن رفاعة الزرقي"];
+	69 -> 19828;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 69;
+}

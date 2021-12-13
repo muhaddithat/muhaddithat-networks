@@ -1,0 +1,7543 @@
+{
+  "name": "",
+  "directed": true,
+  "strict": true,
+  "_draw_": 
+  [
+    {
+      "op": "c",
+      "grad": "none",
+      "color": "#fffffe00"
+    },
+    {
+      "op": "C",
+      "grad": "none",
+      "color": "#ffffff"
+    },
+    {
+      "op": "P",
+      "points": [[0.000,0.000],[0.000,180.000],[206.810,180.000],[206.810,0.000]]
+    }
+  ],
+  "bb": "0,0,206.81,180",
+  "xdotversion": "1.7",
+  "_subgraph_cnt": 0,
+  "objects": [
+    {
+      "_gvid": 0,
+      "name": "56",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [104.450,90.000,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [104.450,86.300],
+          "align": "c",
+          "width": 14.000,
+          "text": "56"
+        }
+      ],
+      "gender": "f",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Umm Salamah ( أم سلمة بنت أبي أمية ( رضي الله عنها",
+      "pos": "104.45,90",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 1,
+      "name": "244",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [176.410,92.510,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [176.410,88.810],
+          "align": "c",
+          "width": 21.000,
+          "text": "244"
+        }
+      ],
+      "gender": "f",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Zaynab bint Abi Salamah ( زينب بنت أبي سلمة  ( رضي الله عنها",
+      "pos": "176.41,92.513",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 2,
+      "name": "246",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [176.060,97.530,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [176.060,93.830],
+          "align": "c",
+          "width": 21.000,
+          "text": "246"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Umar bin Abi Salamah ( عمر بن أبي سلمة بن عبد الأسد ( رضي الله عنه",
+      "pos": "176.06,97.526",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 3,
+      "name": "2086",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [175.360,102.500,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [175.360,98.800],
+          "align": "c",
+          "width": 28.000,
+          "text": "2086"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Amir bin Abi Umayyah ( عامر بن أبي أمية المخزومي ( رضي الله عنه",
+      "pos": "175.36,102.5",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 4,
+      "name": "11005",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [174.310,107.420,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [174.310,103.720],
+          "align": "c",
+          "width": 34.000,
+          "text": "11005"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Sulayman ibn Yasar سليمان بن يسار مولى ميمونة بنت الحارث",
+      "pos": "174.31,107.42",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 5,
+      "name": "10511",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [172.930,112.250,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [172.930,108.550],
+          "align": "c",
+          "width": 34.000,
+          "text": "10511"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Urwa ibn al-Zubayr عروة بن الزبير",
+      "pos": "172.93,112.25",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 6,
+      "name": "19004",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [171.210,116.970,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [171.210,113.270],
+          "align": "c",
+          "width": 34.000,
+          "text": "19004"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Mus'ab bin 'Abdullah مصعب بن عبد الله بن أبي أمية",
+      "pos": "171.21,116.97",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 7,
+      "name": "438",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [169.170,121.560,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [169.170,117.860],
+          "align": "c",
+          "width": 21.000,
+          "text": "438"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Safinah ( سفينة مولى رسول الله صلى الله عليه وسلم ( رضي الله عنه",
+      "pos": "169.17,121.56",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 8,
+      "name": "19466",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [166.810,126.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [166.810,122.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "19466"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu Kathir أبو كثير مولى أم سلمة",
+      "pos": "166.81,126",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 9,
+      "name": "10737",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [164.140,130.260,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [164.140,126.560],
+          "align": "c",
+          "width": 34.000,
+          "text": "10737"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Khayra Umm al-Hasan al-Basri خيرة أم الحسن البصري",
+      "pos": "164.14,130.26",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 10,
+      "name": "50",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [161.190,134.330,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [161.190,130.630],
+          "align": "c",
+          "width": 14.000,
+          "text": "50"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Usamah ibn Zayd ( أسامة بن زيد بن حارثة ( رضي الله عنه",
+      "pos": "161.19,134.33",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 11,
+      "name": "11734",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [157.960,138.180,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [157.960,134.480],
+          "align": "c",
+          "width": 34.000,
+          "text": "11734"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Hind bint al-Harith al-Farasiyya هند بنت الحارث الفراسية",
+      "pos": "157.96,138.18",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 12,
+      "name": "2808",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [154.470,141.790,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [154.470,138.090],
+          "align": "c",
+          "width": 28.000,
+          "text": "2808"
+        }
+      ],
+      "gender": "f",
+      "generation": "Comp.(RA)",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Barra bint Abi Tajra ( برة بنت أبي تجراة العبدرية ( رضي الله عنها",
+      "pos": "154.47,141.79",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 13,
+      "name": "11113",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [150.730,145.160,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [150.730,141.460],
+          "align": "c",
+          "width": 34.000,
+          "text": "11113"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [1st Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu 'Uthman al-Nahdi عبد الرحمن بن مل - أبو عثمان النهدي",
+      "pos": "150.73,145.16",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 14,
+      "name": "10561",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [146.770,148.250,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [146.770,144.550],
+          "align": "c",
+          "width": 34.000,
+          "text": "10561"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Humaid bin 'Abdur Rahman حميد بن عبد الرحمن بن عوف الزهرى",
+      "pos": "146.77,148.25",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 15,
+      "name": "10567",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [142.610,151.060,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [142.610,147.360],
+          "align": "c",
+          "width": 34.000,
+          "text": "10567"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu Salama bin 'Abdur Rahman أبو سلمة بن عبد الرحمن بن عوف",
+      "pos": "142.61,151.06",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 16,
+      "name": "11002",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [138.260,153.570,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [138.260,149.870],
+          "align": "c",
+          "width": 34.000,
+          "text": "11002"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Sa'id ibn al-Musayyib سعيد بن المسيب بن حزن أبو محمد القرشي",
+      "pos": "138.26,153.57",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 17,
+      "name": "11353",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [133.740,155.780,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [133.740,152.080],
+          "align": "c",
+          "width": 34.000,
+          "text": "11353"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [1st Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Shaqayq bin Salmah al-Asadi شقيق بن سلمة الأسدي أبو وائل الكوفي",
+      "pos": "133.74,155.78",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 18,
+      "name": "11052",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [129.080,157.660,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [129.080,153.960],
+          "align": "c",
+          "width": 34.000,
+          "text": "11052"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Amir al-Sha'bi عامر الشعبي",
+      "pos": "129.08,157.66",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 19,
+      "name": "107",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [124.300,159.210,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [124.300,155.510],
+          "align": "c",
+          "width": 21.000,
+          "text": "107"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdur Rahman bin Abi Bakr ( عبد الرحمن بن أبي بكر الصديق ( رضي الله عنه",
+      "pos": "124.3,159.21",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 20,
+      "name": "448",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [119.420,160.430,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [119.420,156.730],
+          "align": "c",
+          "width": 21.000,
+          "text": "448"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdur Rahman ibn al-Harith ( عبد الرحمن بن الحارث بن هشام ( رضي الله عنه",
+      "pos": "119.42,160.43",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 21,
+      "name": "11030",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [114.470,161.300,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [114.470,157.600],
+          "align": "c",
+          "width": 34.000,
+          "text": "11030"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Ikramah bin 'Abdur Rahman عكرمة بن عبد الرحمن بن الحارث",
+      "pos": "114.47,161.3",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 22,
+      "name": "11003",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [109.480,161.820,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [109.480,158.120],
+          "align": "c",
+          "width": 34.000,
+          "text": "11003"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu Bakr bin 'Abdur Rahman أبو بكر بن عبد الرحمن بن الحارث بن هشام",
+      "pos": "109.48,161.82",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 23,
+      "name": "11211",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [104.450,162.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [104.450,158.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "11211"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Karayb bin Abi Muslim كريب بن أبي مسلم الهاشمي",
+      "pos": "104.45,162",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 24,
+      "name": "5232",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [99.430,161.820,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [99.430,158.120],
+          "align": "c",
+          "width": 28.000,
+          "text": "5232"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Qubaysa bin Zuwayb ( قبيصة بن ذؤيب ( رضي الله عنه",
+      "pos": "99.431,161.82",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 25,
+      "name": "11014",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [94.430,161.300,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [94.430,157.600],
+          "align": "c",
+          "width": 34.000,
+          "text": "11014"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Nafie' نافع مولى ابن عمر",
+      "pos": "94.433,161.3",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 26,
+      "name": "13144",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [89.480,160.430,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [89.480,156.730],
+          "align": "c",
+          "width": 34.000,
+          "text": "13144"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Ya'la bin Mamulk يعلى بن مملك",
+      "pos": "89.484,160.43",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 27,
+      "name": "17",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [84.610,159.210,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [84.610,155.510],
+          "align": "c",
+          "width": 14.000,
+          "text": "17"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "ibn Abbas ( عبد الله بن العباس بن عبد المطلب  الحبر ( رضي الله عنه",
+      "pos": "84.607,159.21",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 28,
+      "name": "169",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [79.830,157.660,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [79.830,153.960],
+          "align": "c",
+          "width": 21.000,
+          "text": "169"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah ibn Shaddad ( عبد الله بن شداد بن الهاد الليثي ( رضي الله عنه",
+      "pos": "79.828,157.66",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 29,
+      "name": "487",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [75.170,155.780,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [75.170,152.080],
+          "align": "c",
+          "width": 21.000,
+          "text": "487"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah bin Safwan bin Umayyah ( عبد الله بن صفوان بن أمية ( رضي الله عنه",
+      "pos": "75.168,155.78",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 30,
+      "name": "912",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [70.650,153.570,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [70.650,149.870],
+          "align": "c",
+          "width": 21.000,
+          "text": "912"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah ibn al-Harith ibn Nawfal ( عبد الله بن الحارث بن نوفل ( رضي الله عنه",
+      "pos": "70.651,153.57",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 31,
+      "name": "2007",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [66.300,151.060,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [66.300,147.360],
+          "align": "c",
+          "width": 28.000,
+          "text": "2007"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "al-Harith bin 'Abdullah bin Abi Rabi'a ( الحارث بن عبد الله بن أبي ربيعة ( رضي الله عنه",
+      "pos": "66.299,151.06",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 32,
+      "name": "2308",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [62.130,148.250,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [62.130,144.550],
+          "align": "c",
+          "width": 28.000,
+          "text": "2308"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [3rd Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah bin Wahb bin Zam'a ( عبد الله بن وهب بن زمعة ( رضي الله عنه",
+      "pos": "62.133,148.25",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 33,
+      "name": "2802",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [58.170,145.160,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [58.170,141.460],
+          "align": "c",
+          "width": 28.000,
+          "text": "2802"
+        }
+      ],
+      "gender": "f",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Safiyya bint Shayba bin 'Uthman ( صفية بنت شيبة بن عثمان العبدرية ( رضي الله عنها",
+      "pos": "58.173,145.16",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 34,
+      "name": "2803",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [54.440,141.790,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [54.440,138.090],
+          "align": "c",
+          "width": 28.000,
+          "text": "2803"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdur Rahman bin Shayba ( عبد الرحمن بن شيبة بن عثمان الحجبي ( رضي الله عنه",
+      "pos": "54.438,141.79",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 35,
+      "name": "4049",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [50.950,138.180,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [50.950,134.480],
+          "align": "c",
+          "width": 28.000,
+          "text": "4049"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Wathla bin al-'Asqa' ( واثلة بن الأسقع ( رضي الله عنه",
+      "pos": "50.947,138.18",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 36,
+      "name": "5408",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [47.720,134.330,28.700,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [47.720,130.630],
+          "align": "c",
+          "width": 28.000,
+          "text": "5408"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [2nd Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Hunayda bin Khalid ( هنيدة بن خالد الخزاعي ( رضي الله عنه",
+      "pos": "47.716,134.33",
+      "width": "0.79437"
+    },
+    {
+      "_gvid": 37,
+      "name": "10520",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [44.760,130.260,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [44.760,126.560],
+          "align": "c",
+          "width": 34.000,
+          "text": "10520"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah ibn 'Abdur-Rahman ibn Abi Bakr عبد الله بن عبد الرحمن بن أبي بكر الصديق",
+      "pos": "44.763,130.26",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 38,
+      "name": "10521",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [42.100,126.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [42.100,122.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "10521"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Hafsa bint 'Abdur-Rahman ibn Abi Bakr حفصة بنت عبد الرحمن بن أبي بكر الصديق",
+      "pos": "42.099,126",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 39,
+      "name": "10526",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [39.740,121.560,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [39.740,117.860],
+          "align": "c",
+          "width": 34.000,
+          "text": "10526"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Fatima bint al-Mundhir bin al-Zubayr فاطمة بنت المنذر بن الزبير",
+      "pos": "39.74,121.56",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 40,
+      "name": "10554",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [37.700,116.970,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [37.700,113.270],
+          "align": "c",
+          "width": 34.000,
+          "text": "10554"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Amir bin Sa'd ibn Abi Waqqas عامر بن سعد بن أبي وقاص",
+      "pos": "37.696,116.97",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 41,
+      "name": "10559",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [35.980,112.250,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [35.980,108.550],
+          "align": "c",
+          "width": 34.000,
+          "text": "10559"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Aisha bint Sa'd ibn Abi Waqqas عائشة بنت سعد بن أبي وقاص الزهرية",
+      "pos": "35.977,112.25",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 42,
+      "name": "10691",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [34.590,107.420,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [34.590,103.720],
+          "align": "c",
+          "width": 34.000,
+          "text": "10691"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Dbh bin Mhsn al-Nzy ضبة بن محصن العنزي",
+      "pos": "34.592,107.42",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 43,
+      "name": "10794",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [33.550,102.500,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [33.550,98.800],
+          "align": "c",
+          "width": 34.000,
+          "text": "10794"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Ubaidullah bin al-Qbtyh عبيد الله بن القبطية الكوفي",
+      "pos": "33.547,102.5",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 44,
+      "name": "10839",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [32.850,97.530,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [32.850,93.830],
+          "align": "c",
+          "width": 34.000,
+          "text": "10839"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Yahya bin al-Jazar al-Arni يحيى بن الجزار",
+      "pos": "32.848,97.526",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 45,
+      "name": "10875",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [32.500,92.510,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [32.500,88.810],
+          "align": "c",
+          "width": 34.000,
+          "text": "10875"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Yazid bin Rbah يزيد بن رباح",
+      "pos": "32.497,92.513",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 46,
+      "name": "10929",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [32.500,87.490,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [32.500,83.790],
+          "align": "c",
+          "width": 34.000,
+          "text": "10929"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah bin Abi Salma عبد الله بن أبي سلمة الماجشون",
+      "pos": "32.497,87.487",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 47,
+      "name": "10994",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [32.850,82.470,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [32.850,78.770],
+          "align": "c",
+          "width": 34.000,
+          "text": "10994"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu 'Ubaida bin 'Abdullah bin Zama' أبو عبيدة بن عبد الله بن زمعة",
+      "pos": "32.848,82.474",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 48,
+      "name": "11018",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [33.550,77.500,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [33.550,73.800],
+          "align": "c",
+          "width": 34.000,
+          "text": "11018"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [1st Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Masrouq bin al-Ajda' مسروق بن الأجدع",
+      "pos": "33.547,77.497",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 49,
+      "name": "11021",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [34.590,72.580,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [34.590,68.880],
+          "align": "c",
+          "width": 34.000,
+          "text": "11021"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi')",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah ibn Yasar عبد الله بن يسار مولى ميمونة بنت الحارث",
+      "pos": "34.592,72.582",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 50,
+      "name": "11028",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [35.980,67.750,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [35.980,64.050],
+          "align": "c",
+          "width": 34.000,
+          "text": "11028"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Mujahid bin Jabir مجاهد بن جبر",
+      "pos": "35.977,67.751",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 51,
+      "name": "11029",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [37.700,63.030,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [37.700,59.330],
+          "align": "c",
+          "width": 34.000,
+          "text": "11029"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Ata' bin Abi Rabah عطاء بن أبي رباح",
+      "pos": "37.696,63.028",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 52,
+      "name": "11045",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [39.740,58.440,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [39.740,54.740],
+          "align": "c",
+          "width": 34.000,
+          "text": "11045"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Ali bin al-Husain bin 'Ali علي بن الحسين بن علي - زين العابدين",
+      "pos": "39.74,58.437",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 53,
+      "name": "11059",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [42.100,54.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [42.100,50.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "11059"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Nafi' bin Jubayr bin Mut'im نافع بن جبير بن مطعم",
+      "pos": "42.099,54",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 54,
+      "name": "11090",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [44.760,49.740,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [44.760,46.040],
+          "align": "c",
+          "width": 34.000,
+          "text": "11090"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "no doubt",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah bin 'Ubaidullah b. Abi Mulayka عبد الله بن عبيد الله بن أبي مليكة",
+      "pos": "44.763,49.738",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 55,
+      "name": "11161",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [47.720,45.670,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [47.720,41.970],
+          "align": "c",
+          "width": 34.000,
+          "text": "11161"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Dhakwan Abu Salah al-Saman al-Ziyat ذكوان أبو صالح السمان الزيات",
+      "pos": "47.716,45.672",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 56,
+      "name": "11168",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [50.950,41.820,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [50.950,38.120],
+          "align": "c",
+          "width": 34.000,
+          "text": "11168"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Sa'id bin Abi Sa'id (Kaysan) سعيد بن أبي سعيد كيسان المقبري",
+      "pos": "50.947,41.823",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 57,
+      "name": "11259",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [54.440,38.210,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [54.440,34.510],
+          "align": "c",
+          "width": 34.000,
+          "text": "11259"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Ubaid bin 'Umayr bin Qatada عبيد بن عمير بن قتادة",
+      "pos": "54.438,38.208",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 58,
+      "name": "11297",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [58.170,34.840,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [58.170,31.140],
+          "align": "c",
+          "width": 34.000,
+          "text": "11297"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Ali bin Da'ud,Abu al-Mutawakkal al-Naji علي بن داود أبو المتوكل الناجي",
+      "pos": "58.173,34.845",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 59,
+      "name": "11313",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [62.130,31.750,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [62.130,28.050],
+          "align": "c",
+          "width": 34.000,
+          "text": "11313"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Lahaaq bin Hameed bin Sa'id لاحق بن حميد بن سعيد أبو مجلز",
+      "pos": "62.133,31.751",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 60,
+      "name": "11397",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [66.300,28.940,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [66.300,25.240],
+          "align": "c",
+          "width": 34.000,
+          "text": "11397"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "al-Ma'rur bin Suwayd al-Asadi المعرور بن سويد الأسدي أبو أمية الكوفي",
+      "pos": "66.299,28.941",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 61,
+      "name": "11442",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [70.650,26.430,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [70.650,22.730],
+          "align": "c",
+          "width": 34.000,
+          "text": "11442"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Muhammad bin 'Ali b. al-Hussain al-Baqir محمد بن علي بن الحسين بن علي ,الباقر",
+      "pos": "70.651,26.428",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 62,
+      "name": "11524",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [75.170,24.220,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [75.170,20.520],
+          "align": "c",
+          "width": 34.000,
+          "text": "11524"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Uthman bin 'Abdullah bin Muhab عثمان بن عبد الله بن موهب التيمي الأعرج",
+      "pos": "75.168,24.225",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 63,
+      "name": "11725",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [79.830,22.340,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [79.830,18.640],
+          "align": "c",
+          "width": 34.000,
+          "text": "11725"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Maqsim bin Bajra مقسم بن بجرة",
+      "pos": "79.828,22.342",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 64,
+      "name": "11811",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [84.610,20.790,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [84.610,17.090],
+          "align": "c",
+          "width": 34.000,
+          "text": "11811"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "thiqah thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Safiyya bint Abi 'Ubaid al-Thaqafi صفية بنت أبي عبيد بن مسعود الثقفية",
+      "pos": "84.607,20.789",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 65,
+      "name": "12318",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [89.480,19.570,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [89.480,15.870],
+          "align": "c",
+          "width": 34.000,
+          "text": "12318"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdul Malik bin Marwan عبد الملك بن مروان بن الحكم",
+      "pos": "89.484,19.573",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 66,
+      "name": "13041",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [94.430,18.700,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [94.430,15.000],
+          "align": "c",
+          "width": 34.000,
+          "text": "13041"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Sulaiman bin Babah سليمان بن بأبيه",
+      "pos": "94.433,18.701",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 67,
+      "name": "14221",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [99.430,18.180,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [99.430,14.480],
+          "align": "c",
+          "width": 34.000,
+          "text": "14221"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "'Abdullah bin Farroukh عبد الله بن فروخ القرشي التيمي مولى",
+      "pos": "99.431,18.175",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 68,
+      "name": "15105",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [104.450,18.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [104.450,14.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "15105"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Hkym bin Sa'd al-Hnfy Abu حكيم بن سعد",
+      "pos": "104.45,18",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 69,
+      "name": "15504",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [109.480,18.180,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [109.480,14.480],
+          "align": "c",
+          "width": 34.000,
+          "text": "15504"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Mahan al-Hanafi, Abu al-Salm ماهان الحنفي أبو سالم",
+      "pos": "109.48,18.175",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 70,
+      "name": "15692",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [114.470,18.700,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [114.470,15.000],
+          "align": "c",
+          "width": 34.000,
+          "text": "15692"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [2nd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu Lyla al-Kndy أبو ليلى الكندي",
+      "pos": "114.47,18.701",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 71,
+      "name": "16001",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [119.420,19.570,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [119.420,15.870],
+          "align": "c",
+          "width": 34.000,
+          "text": "16001"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Aslm bin Yazid Abu أسلم بن يزيد أبو عمران",
+      "pos": "119.42,19.573",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 72,
+      "name": "18400",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [124.300,20.790,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [124.300,17.090],
+          "align": "c",
+          "width": 34.000,
+          "text": "18400"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Swa'a al-Khza'y Akhw Mghyth سواء الخزاعي أخو",
+      "pos": "124.3,20.789",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 73,
+      "name": "18947",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [129.080,22.340,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [129.080,18.640],
+          "align": "c",
+          "width": 34.000,
+          "text": "18947"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi')",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Muhammad bin 'Umar bin Abi Salma محمد بن عمر بن أبي سلمة",
+      "pos": "129.08,22.342",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 74,
+      "name": "19290",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [133.740,24.220,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [133.740,20.520],
+          "align": "c",
+          "width": 34.000,
+          "text": "19290"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu Salah Client Of Talha أبو صالح مولى طلحة",
+      "pos": "133.74,24.225",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 75,
+      "name": "19307",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [138.260,26.430,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [138.260,22.730],
+          "align": "c",
+          "width": 34.000,
+          "text": "19307"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu 'Abdullah al-Jdly أبو عبد الله الجدلي",
+      "pos": "138.26,26.428",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 76,
+      "name": "19462",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [142.610,28.940,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [142.610,25.240],
+          "align": "c",
+          "width": 34.000,
+          "text": "19462"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Jasrah bint Dajaja جسرة بنت دجاجة",
+      "pos": "142.61,28.941",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 77,
+      "name": "19467",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [146.770,31.750,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [146.770,28.050],
+          "align": "c",
+          "width": 34.000,
+          "text": "19467"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [6th generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Hafsa bint Abi Kathir حفصة بنت أبي كثير",
+      "pos": "146.77,31.751",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 78,
+      "name": "19469",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [150.730,34.840,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [150.730,31.140],
+          "align": "c",
+          "width": 34.000,
+          "text": "19469"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Hkymh bint Umayya bin حكيمة بنت أمية",
+      "pos": "150.73,34.845",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 79,
+      "name": "19478",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [154.470,38.210,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [154.470,34.510],
+          "align": "c",
+          "width": 34.000,
+          "text": "19478"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Ramaytha bint al-Harith bin al-Tufayl رميثة بنت الحارث بن الطفيل",
+      "pos": "154.47,38.208",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 80,
+      "name": "19486",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [157.960,41.820,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [157.960,38.120],
+          "align": "c",
+          "width": 34.000,
+          "text": "19486"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Slma al-Bakryh سلمى البكرية",
+      "pos": "157.96,41.823",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 81,
+      "name": "19523",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [161.190,45.670,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [161.190,41.970],
+          "align": "c",
+          "width": 34.000,
+          "text": "19523"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Mussah al-Azadiyya مسة الأزدية أم بسة",
+      "pos": "161.19,45.672",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 82,
+      "name": "19540",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [164.140,49.740,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [164.140,46.040],
+          "align": "c",
+          "width": 34.000,
+          "text": "19540"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "not thiqah",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Umm Haram Mother Of Muhammad أم حرام والدة محمد",
+      "pos": "164.14,49.738",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 83,
+      "name": "19546",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [166.810,54.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [166.810,50.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "19546"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Umm Dhrh al-Madnih Mwlah Aa'ishh أم ذرة المدنية",
+      "pos": "166.81,54",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 84,
+      "name": "19566",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [169.170,58.440,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [169.170,54.740],
+          "align": "c",
+          "width": 34.000,
+          "text": "19566"
+        }
+      ],
+      "gender": "f",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Umm Musa أم موسى",
+      "pos": "169.17,58.437",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 85,
+      "name": "19844",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [171.210,63.030,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [171.210,59.330],
+          "align": "c",
+          "width": 34.000,
+          "text": "19844"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [5th generation]",
+      "grade": "sadooq\/delusion",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "al-Rabi' bin Anas al-Bakry الربيع بن أنس البكري",
+      "pos": "171.21,63.028",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 86,
+      "name": "19944",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [172.930,67.750,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [172.930,64.050],
+          "align": "c",
+          "width": 34.000,
+          "text": "19944"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [4th generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "al-Muttalib bin 'Abdullah bin Hantab المطلب بن عبد الله بن حنطب",
+      "pos": "172.93,67.751",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 87,
+      "name": "1",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [174.310,72.580,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [174.310,68.880],
+          "align": "c",
+          "width": 7.000,
+          "text": "1"
+        }
+      ],
+      "gender": "m",
+      "generation": "Rasool Allah",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه",
+      "pos": "174.31,72.582",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 88,
+      "name": "21",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [175.360,77.500,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [175.360,73.800],
+          "align": "c",
+          "width": 14.000,
+          "text": "21"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Ja'far ibn Abi Talib ( جعفر بن أبي طالب بن عبد المطلب ( رضي الله عنه",
+      "pos": "175.36,77.497",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 89,
+      "name": "63",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [176.060,82.470,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [176.060,78.770],
+          "align": "c",
+          "width": 14.000,
+          "text": "63"
+        }
+      ],
+      "gender": "f",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Fatima bint Muhammad ( فاطمة الزهراء بنت محمد بن عبد الله ( رضي الله عنها",
+      "pos": "176.06,82.474",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 90,
+      "name": "101",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [176.410,87.490,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [176.410,83.790],
+          "align": "c",
+          "width": 21.000,
+          "text": "101"
+        }
+      ],
+      "gender": "m",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Abu Salamah ( عبد الله بن عبد الأسد أبو سلمة ( رضي الله عنه",
+      "pos": "176.41,87.487",
+      "width": "0.75"
+    }
+  ],
+  "edges": [
+    {
+      "_gvid": 0,
+      "tail": 0,
+      "head": 1,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[131.660,90.950],[134.070,91.030],[136.550,91.120],[139.030,91.210]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[139.050,94.710],[149.170,91.560],[139.300,87.710]]
+        }
+      ],
+      "pos": "e,149.17,91.561 131.66,90.95 134.07,91.034 136.55,91.121 139.03,91.207"
+    },
+    {
+      "_gvid": 1,
+      "tail": 0,
+      "head": 2,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[131.520,92.850],[133.930,93.100],[136.390,93.360],[138.860,93.620]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[138.640,97.110],[148.950,94.680],[139.370,90.150]]
+        }
+      ],
+      "pos": "e,148.95,94.677 131.52,92.845 133.93,93.098 136.39,93.357 138.86,93.617"
+    },
+    {
+      "_gvid": 2,
+      "tail": 0,
+      "head": 3,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[130.860,94.660],[133.100,95.050],[135.390,95.450],[137.690,95.860]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[137.290,99.340],[147.750,97.630],[138.510,92.450]]
+        }
+      ],
+      "pos": "e,147.75,97.634 130.86,94.656 133.1,95.05 135.39,95.454 137.69,95.861"
+    },
+    {
+      "_gvid": 3,
+      "tail": 0,
+      "head": 4,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[130.070,96.390],[131.530,96.750],[133.010,97.120],[134.510,97.490]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.890,100.950],[144.440,99.970],[135.580,94.150]]
+        }
+      ],
+      "pos": "e,144.44,99.97 130.07,96.387 131.53,96.751 133.01,97.121 134.51,97.494"
+    },
+    {
+      "_gvid": 4,
+      "tail": 0,
+      "head": 5,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[128.790,97.910],[130.690,98.530],[132.640,99.160],[134.600,99.800]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.870,103.240],[144.460,103.000],[136.030,96.580]]
+        }
+      ],
+      "pos": "e,144.46,103 128.79,97.907 130.69,98.525 132.64,99.158 134.6,99.797"
+    },
+    {
+      "_gvid": 5,
+      "tail": 0,
+      "head": 6,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[127.800,99.430],[130.170,100.390],[132.610,101.380],[135.080,102.370]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.980,105.700],[144.560,106.210],[136.600,99.210]]
+        }
+      ],
+      "pos": "e,144.56,106.21 127.8,99.433 130.17,100.39 132.61,101.38 135.08,102.37"
+    },
+    {
+      "_gvid": 6,
+      "tail": 0,
+      "head": 7,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[126.360,100.690],[130.160,102.540],[134.170,104.490],[138.150,106.430]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[136.760,109.650],[147.280,110.890],[139.830,103.360]]
+        }
+      ],
+      "pos": "e,147.28,110.89 126.36,100.69 130.16,102.54 134.17,104.49 138.15,106.43"
+    },
+    {
+      "_gvid": 7,
+      "tail": 0,
+      "head": 8,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[124.870,101.790],[128.210,103.720],[131.740,105.750],[135.270,107.790]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.560,110.850],[143.970,112.820],[137.060,104.780]]
+        }
+      ],
+      "pos": "e,143.97,112.82 124.87,101.79 128.21,103.72 131.74,105.75 135.27,107.79"
+    },
+    {
+      "_gvid": 8,
+      "tail": 0,
+      "head": 9,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[123.670,102.960],[127.290,105.410],[131.160,108.010],[135.010,110.610]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.070,113.520],[143.310,116.210],[136.980,107.720]]
+        }
+      ],
+      "pos": "e,143.31,116.21 123.67,102.96 127.29,105.41 131.16,108.01 135.01,110.61"
+    },
+    {
+      "_gvid": 9,
+      "tail": 0,
+      "head": 10,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[122.090,103.780],[126.320,107.090],[130.920,110.680],[135.440,114.210]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.330,117.000],[143.360,120.400],[137.640,111.490]]
+        }
+      ],
+      "pos": "e,143.36,120.4 122.09,103.78 126.32,107.09 130.92,110.68 135.44,114.21"
+    },
+    {
+      "_gvid": 10,
+      "tail": 0,
+      "head": 11,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[120.800,104.720],[124.620,108.160],[128.770,111.900],[132.880,115.590]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[130.830,118.460],[140.600,122.550],[135.510,113.260]]
+        }
+      ],
+      "pos": "e,140.6,122.55 120.8,104.72 124.62,108.16 128.77,111.9 132.88,115.59"
+    },
+    {
+      "_gvid": 11,
+      "tail": 0,
+      "head": 12,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[119.190,105.260],[123.250,109.460],[127.750,114.120],[132.140,118.670]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[129.850,121.340],[139.320,126.100],[134.890,116.480]]
+        }
+      ],
+      "pos": "e,139.32,126.1 119.19,105.26 123.25,109.46 127.75,114.12 132.14,118.67"
+    },
+    {
+      "_gvid": 12,
+      "tail": 0,
+      "head": 13,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[117.840,105.950],[121.760,110.630],[126.150,115.850],[130.400,120.920]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[127.790,123.250],[136.900,128.660],[133.150,118.750]]
+        }
+      ],
+      "pos": "e,136.9,128.66 117.84,105.95 121.76,110.63 126.15,115.85 130.4,120.92"
+    },
+    {
+      "_gvid": 13,
+      "tail": 0,
+      "head": 14,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[116.240,106.230],[120.050,111.470],[124.380,117.420],[128.540,123.150]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[125.750,125.270],[134.460,131.300],[131.410,121.150]]
+        }
+      ],
+      "pos": "e,134.46,131.3 116.24,106.23 120.05,111.47 124.38,117.42 128.54,123.15"
+    },
+    {
+      "_gvid": 14,
+      "tail": 0,
+      "head": 15,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[114.880,106.680],[118.440,112.380],[122.500,118.890],[126.410,125.130]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[123.660,127.340],[131.930,133.970],[129.600,123.630]]
+        }
+      ],
+      "pos": "e,131.93,133.97 114.88,106.68 118.44,112.38 122.5,118.89 126.41,125.13"
+    },
+    {
+      "_gvid": 15,
+      "tail": 0,
+      "head": 16,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[113.510,107.040],[116.790,113.210],[120.580,120.330],[124.190,127.120]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[121.150,128.860],[128.940,136.050],[127.330,125.570]]
+        }
+      ],
+      "pos": "e,128.94,136.05 113.51,107.04 116.79,113.21 120.58,120.33 124.19,127.12"
+    },
+    {
+      "_gvid": 16,
+      "tail": 0,
+      "head": 17,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[112.150,107.280],[115.040,113.770],[118.400,121.320],[121.590,128.490]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[118.520,130.210],[125.790,137.920],[124.920,127.360]]
+        }
+      ],
+      "pos": "e,125.79,137.92 112.15,107.28 115.04,113.77 118.4,121.32 121.59,128.49"
+    },
+    {
+      "_gvid": 17,
+      "tail": 0,
+      "head": 18,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[110.920,107.780],[113.420,114.640],[116.330,122.640],[119.090,130.210]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[115.860,131.570],[122.570,139.770],[122.440,129.170]]
+        }
+      ],
+      "pos": "e,122.57,139.77 110.92,107.78 113.42,114.64 116.33,122.64 119.09,130.21"
+    },
+    {
+      "_gvid": 18,
+      "tail": 0,
+      "head": 19,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[109.560,107.820],[111.630,115.030],[114.070,123.520],[116.350,131.510]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[113.020,132.560],[119.140,141.210],[119.740,130.630]]
+        }
+      ],
+      "pos": "e,119.14,141.21 109.56,107.82 111.63,115.03 114.07,123.52 116.35,131.51"
+    },
+    {
+      "_gvid": 19,
+      "tail": 0,
+      "head": 20,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[108.310,108.140],[109.890,115.590],[111.760,124.380],[113.510,132.620]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[110.130,133.540],[115.630,142.600],[116.980,132.090]]
+        }
+      ],
+      "pos": "e,115.63,142.6 108.31,108.14 109.89,115.59 111.76,124.38 113.51,132.62"
+    },
+    {
+      "_gvid": 20,
+      "tail": 0,
+      "head": 21,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[106.980,107.990],[108.050,115.620],[109.330,124.680],[110.520,133.160]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[107.050,133.650],[111.910,143.070],[113.990,132.680]]
+        }
+      ],
+      "pos": "e,111.91,143.07 106.98,107.99 108.05,115.62 109.33,124.68 110.52,133.16"
+    },
+    {
+      "_gvid": 21,
+      "tail": 0,
+      "head": 22,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[105.720,108.120],[106.260,115.810],[106.900,124.940],[107.490,133.480]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[104.000,133.720],[108.190,143.460],[110.990,133.240]]
+        }
+      ],
+      "pos": "e,108.19,143.46 105.72,108.12 106.26,115.81 106.9,124.94 107.49,133.48"
+    },
+    {
+      "_gvid": 22,
+      "tail": 0,
+      "head": 23,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[104.450,108.170],[104.450,115.870],[104.450,125.030],[104.450,133.580]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[100.950,133.590],[104.450,143.590],[107.950,133.590]]
+        }
+      ],
+      "pos": "e,104.45,143.59 104.45,108.17 104.45,115.87 104.45,125.03 104.45,133.58"
+    },
+    {
+      "_gvid": 23,
+      "tail": 0,
+      "head": 24,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[103.190,108.120],[102.650,115.810],[102.010,124.940],[101.410,133.480]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[97.920,133.240],[100.720,143.460],[104.900,133.720]]
+        }
+      ],
+      "pos": "e,100.72,143.46 103.19,108.12 102.65,115.81 102.01,124.94 101.41,133.48"
+    },
+    {
+      "_gvid": 24,
+      "tail": 0,
+      "head": 25,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[101.920,107.990],[100.850,115.620],[99.580,124.680],[98.390,133.160]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[94.920,132.680],[97.000,143.070],[101.850,133.650]]
+        }
+      ],
+      "pos": "e,96.995,143.07 101.92,107.99 100.85,115.62 99.579,124.68 98.388,133.16"
+    },
+    {
+      "_gvid": 25,
+      "tail": 0,
+      "head": 26,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[100.600,108.140],[99.040,115.470],[97.200,124.110],[95.480,132.230]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[92.030,131.600],[93.380,142.110],[98.880,133.050]]
+        }
+      ],
+      "pos": "e,93.378,142.11 100.6,108.14 99.039,115.47 97.202,124.11 95.476,132.23"
+    },
+    {
+      "_gvid": 26,
+      "tail": 0,
+      "head": 27,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[99.340,107.820],[97.280,115.030],[94.840,123.520],[92.550,131.510]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[89.160,130.630],[89.770,141.210],[95.890,132.560]]
+        }
+      ],
+      "pos": "e,89.77,141.21 99.342,107.82 97.275,115.03 94.84,123.52 92.552,131.51"
+    },
+    {
+      "_gvid": 27,
+      "tail": 0,
+      "head": 28,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[97.980,107.780],[95.490,114.640],[92.570,122.640],[89.820,130.210]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[86.470,129.170],[86.340,139.770],[93.050,131.570]]
+        }
+      ],
+      "pos": "e,86.34,139.77 97.983,107.78 95.486,114.64 92.572,122.64 89.819,130.21"
+    },
+    {
+      "_gvid": 28,
+      "tail": 0,
+      "head": 29,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[96.760,107.280],[93.820,113.880],[90.400,121.560],[87.160,128.840]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[83.780,127.820],[82.910,138.380],[90.180,130.670]]
+        }
+      ],
+      "pos": "e,82.913,138.38 96.759,107.28 93.823,113.88 90.402,121.56 87.16,128.84"
+    },
+    {
+      "_gvid": 29,
+      "tail": 0,
+      "head": 30,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[95.390,107.040],[92.060,113.310],[88.200,120.560],[84.540,127.450]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[81.340,126.020],[79.730,136.490],[87.520,129.300]]
+        }
+      ],
+      "pos": "e,79.735,136.49 95.395,107.04 92.061,113.31 88.203,120.56 84.541,127.45"
+    },
+    {
+      "_gvid": 30,
+      "tail": 0,
+      "head": 31,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[94.030,106.680],[90.470,112.380],[86.400,118.890],[82.500,125.130]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[79.310,123.630],[76.980,133.970],[85.250,127.340]]
+        }
+      ],
+      "pos": "e,76.978,133.97 94.027,106.68 90.47,112.38 86.403,118.89 82.5,125.13"
+    },
+    {
+      "_gvid": 31,
+      "tail": 0,
+      "head": 32,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[92.660,106.230],[88.790,111.560],[84.380,117.630],[80.150,123.450]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[77.200,121.560],[74.150,131.710],[82.860,125.670]]
+        }
+      ],
+      "pos": "e,74.152,131.71 92.665,106.23 88.787,111.56 84.382,117.63 80.15,123.45"
+    },
+    {
+      "_gvid": 32,
+      "tail": 0,
+      "head": 33,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[91.070,105.950],[87.070,110.710],[82.600,116.040],[78.280,121.190]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.440,119.140],[71.690,129.050],[80.800,123.640]]
+        }
+      ],
+      "pos": "e,71.689,129.05 91.067,105.95 87.073,110.71 82.603,116.04 78.278,121.19"
+    },
+    {
+      "_gvid": 33,
+      "tail": 0,
+      "head": 34,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[89.720,105.260],[85.660,109.460],[81.160,114.120],[76.770,118.670]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[74.020,116.480],[69.590,126.100],[79.050,121.340]]
+        }
+      ],
+      "pos": "e,69.588,126.1 89.718,105.26 85.656,109.46 81.158,114.12 76.77,118.67"
+    },
+    {
+      "_gvid": 34,
+      "tail": 0,
+      "head": 35,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[88.110,104.720],[84.040,108.380],[79.580,112.390],[75.220,116.320]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[72.650,113.930],[67.560,123.220],[77.330,119.130]]
+        }
+      ],
+      "pos": "e,67.56,123.22 88.109,104.72 84.037,108.38 79.583,112.39 75.219,116.32"
+    },
+    {
+      "_gvid": 35,
+      "tail": 0,
+      "head": 36,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[86.810,103.780],[82.770,106.940],[78.380,110.370],[74.060,113.740]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[71.660,111.180],[65.930,120.090],[75.970,116.700]]
+        }
+      ],
+      "pos": "e,65.934,120.09 86.812,103.78 82.769,106.94 78.384,110.37 74.062,113.74"
+    },
+    {
+      "_gvid": 36,
+      "tail": 0,
+      "head": 37,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[85.240,102.960],[81.610,105.410],[77.750,108.010],[73.900,110.610]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[71.930,107.720],[65.590,116.210],[75.840,113.520]]
+        }
+      ],
+      "pos": "e,65.592,116.21 85.238,102.96 81.613,105.41 77.747,108.01 73.896,110.61"
+    },
+    {
+      "_gvid": 37,
+      "tail": 0,
+      "head": 38,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[84.040,101.790],[80.700,103.720],[77.170,105.750],[73.630,107.790]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[71.850,104.780],[64.940,112.820],[75.350,110.850]]
+        }
+      ],
+      "pos": "e,64.936,112.82 84.036,101.79 80.695,103.72 77.167,105.75 73.632,107.79"
+    },
+    {
+      "_gvid": 38,
+      "tail": 0,
+      "head": 39,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[82.540,100.690],[79.610,102.120],[76.550,103.610],[73.470,105.110]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[71.750,102.060],[64.300,109.590],[74.820,108.350]]
+        }
+      ],
+      "pos": "e,64.298,109.59 82.544,100.69 79.611,102.12 76.549,103.61 73.471,105.11"
+    },
+    {
+      "_gvid": 39,
+      "tail": 0,
+      "head": 40,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[81.100,99.430],[78.740,100.390],[76.290,101.380],[73.830,102.370]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[72.300,99.210],[64.340,106.210],[74.930,105.700]]
+        }
+      ],
+      "pos": "e,64.344,106.21 81.105,99.433 78.736,100.39 76.293,101.38 73.83,102.37"
+    },
+    {
+      "_gvid": 40,
+      "tail": 0,
+      "head": 41,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[80.120,97.910],[78.220,98.530],[76.270,99.160],[74.300,99.800]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[72.870,96.580],[64.440,103.000],[75.040,103.240]]
+        }
+      ],
+      "pos": "e,64.444,103 80.118,97.907 78.216,98.525 76.268,99.158 74.302,99.797"
+    },
+    {
+      "_gvid": 41,
+      "tail": 0,
+      "head": 42,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[78.840,96.390],[77.380,96.750],[75.890,97.120],[74.400,97.490]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[73.320,94.150],[64.470,99.970],[75.020,100.950]]
+        }
+      ],
+      "pos": "e,64.466,99.97 78.836,96.387 77.376,96.751 75.892,97.121 74.396,97.494"
+    },
+    {
+      "_gvid": 42,
+      "tail": 0,
+      "head": 43,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[78.050,94.660],[76.950,94.850],[75.830,95.050],[74.710,95.240]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[73.760,91.860],[64.520,97.040],[74.970,98.750]]
+        }
+      ],
+      "pos": "e,64.519,97.042 78.05,94.656 76.948,94.85 75.833,95.047 74.71,95.245"
+    },
+    {
+      "_gvid": 43,
+      "tail": 0,
+      "head": 44,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[77.380,92.850],[76.760,92.910],[76.140,92.980],[75.520,93.040]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[74.840,89.590],[65.260,94.120],[75.570,96.560]]
+        }
+      ],
+      "pos": "e,65.256,94.12 77.382,92.845 76.763,92.91 76.141,92.976 75.515,93.041"
+    },
+    {
+      "_gvid": 44,
+      "tail": 0,
+      "head": 45,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[77.250,90.950],[76.630,90.970],[76.000,90.990],[75.370,91.020]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[74.940,87.530],[65.060,91.380],[75.180,94.520]]
+        }
+      ],
+      "pos": "e,65.064,91.376 77.25,90.95 76.628,90.972 76.002,90.994 75.374,91.015"
+    },
+    {
+      "_gvid": 45,
+      "tail": 0,
+      "head": 46,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[77.250,89.050],[76.630,89.030],[76.000,89.010],[75.370,88.980]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.180,85.480],[65.060,88.620],[74.940,92.470]]
+        }
+      ],
+      "pos": "e,65.064,88.624 77.25,89.05 76.628,89.028 76.002,89.006 75.374,88.985"
+    },
+    {
+      "_gvid": 46,
+      "tail": 0,
+      "head": 47,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[77.380,87.150],[76.760,87.090],[76.140,87.020],[75.520,86.960]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.570,83.440],[65.260,85.880],[74.840,90.410]]
+        }
+      ],
+      "pos": "e,65.256,85.88 77.382,87.155 76.763,87.09 76.141,87.024 75.515,86.959"
+    },
+    {
+      "_gvid": 47,
+      "tail": 0,
+      "head": 48,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[78.050,85.340],[76.950,85.150],[75.830,84.950],[74.710,84.760]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[74.970,81.250],[64.520,82.960],[73.760,88.140]]
+        }
+      ],
+      "pos": "e,64.519,82.958 78.05,85.344 76.948,85.15 75.833,84.953 74.71,84.755"
+    },
+    {
+      "_gvid": 48,
+      "tail": 0,
+      "head": 49,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[78.840,83.610],[77.380,83.250],[75.890,82.880],[74.400,82.510]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.020,79.050],[64.470,80.030],[73.320,85.850]]
+        }
+      ],
+      "pos": "e,64.466,80.03 78.836,83.613 77.376,83.249 75.892,82.879 74.396,82.506"
+    },
+    {
+      "_gvid": 49,
+      "tail": 0,
+      "head": 50,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[80.120,82.090],[78.220,81.470],[76.270,80.840],[74.300,80.200]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.040,76.760],[64.440,77.000],[72.870,83.420]]
+        }
+      ],
+      "pos": "e,64.444,77 80.118,82.093 78.216,81.475 76.268,80.842 74.302,80.203"
+    },
+    {
+      "_gvid": 50,
+      "tail": 0,
+      "head": 51,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[81.100,80.570],[78.740,79.610],[76.290,78.620],[73.830,77.630]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[74.930,74.300],[64.340,73.790],[72.300,80.790]]
+        }
+      ],
+      "pos": "e,64.344,73.795 81.105,80.567 78.736,79.61 76.293,78.623 73.83,77.627"
+    },
+    {
+      "_gvid": 51,
+      "tail": 0,
+      "head": 52,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[82.540,79.310],[79.610,77.880],[76.550,76.390],[73.470,74.890]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[74.820,71.650],[64.300,70.410],[71.750,77.940]]
+        }
+      ],
+      "pos": "e,64.298,70.415 82.544,79.314 79.611,77.884 76.549,76.39 73.471,74.889"
+    },
+    {
+      "_gvid": 52,
+      "tail": 0,
+      "head": 53,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[84.040,78.210],[80.700,76.280],[77.170,74.250],[73.630,72.210]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.350,69.150],[64.940,67.180],[71.850,75.220]]
+        }
+      ],
+      "pos": "e,64.936,67.185 84.036,78.212 80.695,76.283 77.167,74.246 73.632,72.205"
+    },
+    {
+      "_gvid": 53,
+      "tail": 0,
+      "head": 54,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[85.240,77.040],[81.610,74.590],[77.750,71.990],[73.900,69.390]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[75.840,66.480],[65.590,63.790],[71.930,72.280]]
+        }
+      ],
+      "pos": "e,65.592,63.788 85.238,77.039 81.613,74.594 77.747,71.986 73.896,69.389"
+    },
+    {
+      "_gvid": 54,
+      "tail": 0,
+      "head": 55,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[86.810,76.220],[83.030,73.260],[78.940,70.070],[74.890,66.900]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[76.760,63.920],[66.720,60.520],[72.450,69.440]]
+        }
+      ],
+      "pos": "e,66.725,60.523 86.812,76.217 83.027,73.26 78.942,70.069 74.89,66.903"
+    },
+    {
+      "_gvid": 55,
+      "tail": 0,
+      "head": 56,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[88.110,75.280],[84.290,71.840],[80.130,68.100],[76.030,64.410]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[78.080,61.540],[68.300,57.450],[73.390,66.740]]
+        }
+      ],
+      "pos": "e,68.305,57.452 88.109,75.283 84.288,71.843 80.132,68.101 76.029,64.407"
+    },
+    {
+      "_gvid": 56,
+      "tail": 0,
+      "head": 57,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[89.720,74.740],[85.730,70.610],[81.320,66.050],[77.010,61.580]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[79.400,59.020],[69.940,54.260],[74.370,63.880]]
+        }
+      ],
+      "pos": "e,69.938,54.258 89.718,74.741 85.73,70.612 81.321,66.046 77.01,61.581"
+    },
+    {
+      "_gvid": 57,
+      "tail": 0,
+      "head": 58,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[91.070,74.050],[87.140,69.370],[82.760,64.150],[78.510,59.080]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[81.120,56.750],[72.010,51.340],[75.760,61.250]]
+        }
+      ],
+      "pos": "e,72.011,51.337 91.067,74.047 87.143,69.37 82.76,64.147 78.506,59.077"
+    },
+    {
+      "_gvid": 58,
+      "tail": 0,
+      "head": 59,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[92.660,73.770],[88.850,68.530],[84.530,62.580],[80.360,56.850]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[83.160,54.730],[74.450,48.700],[77.490,58.850]]
+        }
+      ],
+      "pos": "e,74.448,48.702 92.665,73.774 88.852,68.527 84.531,62.58 80.365,56.845"
+    },
+    {
+      "_gvid": 59,
+      "tail": 0,
+      "head": 60,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[94.030,73.320],[90.470,67.620],[86.400,61.110],[82.500,54.870]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[85.250,52.660],[76.980,46.030],[79.310,56.370]]
+        }
+      ],
+      "pos": "e,76.978,46.03 94.027,73.315 90.47,67.622 86.403,61.113 82.5,54.867"
+    },
+    {
+      "_gvid": 60,
+      "tail": 0,
+      "head": 61,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[95.390,72.960],[92.110,66.790],[88.330,59.670],[84.720,52.880]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[87.760,51.140],[79.970,43.950],[81.570,54.430]]
+        }
+      ],
+      "pos": "e,79.97,43.954 95.395,72.964 92.114,66.794 88.327,59.672 84.718,52.883"
+    },
+    {
+      "_gvid": 61,
+      "tail": 0,
+      "head": 62,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[96.760,72.720],[93.870,66.230],[90.510,58.680],[87.310,51.510]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[90.380,49.790],[83.120,42.080],[83.990,52.640]]
+        }
+      ],
+      "pos": "e,83.117,42.079 96.759,72.718 93.87,66.229 90.51,58.684 87.314,51.506"
+    },
+    {
+      "_gvid": 62,
+      "tail": 0,
+      "head": 63,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[97.980,72.220],[95.490,65.360],[92.570,57.360],[89.820,49.790]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[93.050,48.430],[86.340,40.230],[86.470,50.830]]
+        }
+      ],
+      "pos": "e,86.34,40.235 97.983,72.224 95.486,65.364 92.572,57.357 89.819,49.792"
+    },
+    {
+      "_gvid": 63,
+      "tail": 0,
+      "head": 64,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[99.340,72.180],[97.280,64.970],[94.840,56.480],[92.550,48.490]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[95.890,47.440],[89.770,38.790],[89.160,49.370]]
+        }
+      ],
+      "pos": "e,89.77,38.793 99.342,72.176 97.275,64.967 94.84,56.476 92.552,48.494"
+    },
+    {
+      "_gvid": 64,
+      "tail": 0,
+      "head": 65,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[100.600,71.860],[99.040,64.530],[97.200,55.890],[95.480,47.770]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[98.880,46.950],[93.380,37.890],[92.030,48.400]]
+        }
+      ],
+      "pos": "e,93.378,37.893 100.6,71.863 99.039,64.527 97.202,55.887 95.476,47.765"
+    },
+    {
+      "_gvid": 65,
+      "tail": 0,
+      "head": 66,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[101.920,72.010],[100.850,64.380],[99.580,55.320],[98.390,46.840]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[101.850,46.350],[97.000,36.930],[94.920,47.320]]
+        }
+      ],
+      "pos": "e,96.995,36.935 101.92,72.008 100.85,64.383 99.579,55.315 98.388,46.841"
+    },
+    {
+      "_gvid": 66,
+      "tail": 0,
+      "head": 67,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[103.190,71.880],[102.650,64.190],[102.010,55.060],[101.410,46.520]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[104.900,46.280],[100.720,36.540],[97.920,46.760]]
+        }
+      ],
+      "pos": "e,100.72,36.544 103.19,71.876 102.65,64.194 102.01,55.06 101.41,46.523"
+    },
+    {
+      "_gvid": 67,
+      "tail": 0,
+      "head": 68,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[104.450,71.830],[104.450,64.130],[104.450,54.970],[104.450,46.420]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[107.950,46.410],[104.450,36.410],[100.950,46.410]]
+        }
+      ],
+      "pos": "e,104.45,36.413 104.45,71.831 104.45,64.131 104.45,54.974 104.45,46.417"
+    },
+    {
+      "_gvid": 68,
+      "tail": 0,
+      "head": 69,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[105.720,71.880],[106.260,64.190],[106.900,55.060],[107.490,46.520]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[110.990,46.760],[108.190,36.540],[104.000,46.280]]
+        }
+      ],
+      "pos": "e,108.19,36.544 105.72,71.876 106.26,64.194 106.9,55.06 107.49,46.523"
+    },
+    {
+      "_gvid": 69,
+      "tail": 0,
+      "head": 70,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[106.980,72.010],[108.050,64.380],[109.330,55.320],[110.520,46.840]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[113.990,47.320],[111.910,36.930],[107.050,46.350]]
+        }
+      ],
+      "pos": "e,111.91,36.935 106.98,72.008 108.05,64.383 109.33,55.315 110.52,46.841"
+    },
+    {
+      "_gvid": 70,
+      "tail": 0,
+      "head": 71,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[108.310,71.860],[109.870,64.530],[111.700,55.890],[113.430,47.770]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[116.870,48.400],[115.530,37.890],[110.030,46.950]]
+        }
+      ],
+      "pos": "e,115.53,37.893 108.31,71.863 109.87,64.527 111.7,55.887 113.43,47.765"
+    },
+    {
+      "_gvid": 71,
+      "tail": 0,
+      "head": 72,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[109.560,72.180],[111.630,64.970],[114.070,56.480],[116.350,48.490]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[119.740,49.370],[119.140,38.790],[113.020,47.440]]
+        }
+      ],
+      "pos": "e,119.14,38.793 109.56,72.176 111.63,64.967 114.07,56.476 116.35,48.494"
+    },
+    {
+      "_gvid": 72,
+      "tail": 0,
+      "head": 73,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[110.920,72.220],[113.420,65.360],[116.330,57.360],[119.090,49.790]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[122.440,50.830],[122.570,40.230],[115.860,48.430]]
+        }
+      ],
+      "pos": "e,122.57,40.235 110.92,72.224 113.42,65.364 116.33,57.357 119.09,49.792"
+    },
+    {
+      "_gvid": 73,
+      "tail": 0,
+      "head": 74,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[112.150,72.720],[115.040,66.230],[118.400,58.680],[121.590,51.510]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[124.920,52.640],[125.790,42.080],[118.520,49.790]]
+        }
+      ],
+      "pos": "e,125.79,42.079 112.15,72.718 115.04,66.229 118.4,58.684 121.59,51.506"
+    },
+    {
+      "_gvid": 74,
+      "tail": 0,
+      "head": 75,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[113.510,72.960],[116.790,66.790],[120.580,59.670],[124.190,52.880]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[127.330,54.430],[128.940,43.950],[121.150,51.140]]
+        }
+      ],
+      "pos": "e,128.94,43.954 113.51,72.964 116.79,66.794 120.58,59.672 124.19,52.883"
+    },
+    {
+      "_gvid": 75,
+      "tail": 0,
+      "head": 76,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[114.880,73.320],[118.440,67.620],[122.500,61.110],[126.410,54.870]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[129.600,56.370],[131.930,46.030],[123.660,52.660]]
+        }
+      ],
+      "pos": "e,131.93,46.03 114.88,73.315 118.44,67.622 122.5,61.113 126.41,54.867"
+    },
+    {
+      "_gvid": 76,
+      "tail": 0,
+      "head": 77,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[116.240,73.770],[120.050,68.530],[124.380,62.580],[128.540,56.850]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[131.410,58.850],[134.460,48.700],[125.750,54.730]]
+        }
+      ],
+      "pos": "e,134.46,48.702 116.24,73.774 120.05,68.527 124.38,62.58 128.54,56.845"
+    },
+    {
+      "_gvid": 77,
+      "tail": 0,
+      "head": 78,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[117.840,74.050],[121.760,69.370],[126.150,64.150],[130.400,59.080]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[133.150,61.250],[136.900,51.340],[127.790,56.750]]
+        }
+      ],
+      "pos": "e,136.9,51.337 117.84,74.047 121.76,69.37 126.15,64.147 130.4,59.077"
+    },
+    {
+      "_gvid": 78,
+      "tail": 0,
+      "head": 79,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[119.190,74.740],[123.180,70.610],[127.590,66.050],[131.900,61.580]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[134.540,63.880],[138.970,54.260],[129.500,59.020]]
+        }
+      ],
+      "pos": "e,138.97,54.258 119.19,74.741 123.18,70.612 127.59,66.046 131.9,61.581"
+    },
+    {
+      "_gvid": 79,
+      "tail": 0,
+      "head": 80,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[120.800,75.280],[124.620,71.840],[128.770,68.100],[132.880,64.410]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[135.510,66.740],[140.600,57.450],[130.830,61.540]]
+        }
+      ],
+      "pos": "e,140.6,57.452 120.8,75.283 124.62,71.843 128.77,68.101 132.88,64.407"
+    },
+    {
+      "_gvid": 80,
+      "tail": 0,
+      "head": 81,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[122.090,76.220],[125.880,73.260],[129.960,70.070],[134.020,66.900]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[136.460,69.440],[142.180,60.520],[132.150,63.920]]
+        }
+      ],
+      "pos": "e,142.18,60.523 122.09,76.217 125.88,73.26 129.96,70.069 134.02,66.903"
+    },
+    {
+      "_gvid": 81,
+      "tail": 0,
+      "head": 82,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[123.670,77.040],[127.290,74.590],[131.160,71.990],[135.010,69.390]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[136.980,72.280],[143.310,63.790],[133.070,66.480]]
+        }
+      ],
+      "pos": "e,143.31,63.788 123.67,77.039 127.29,74.594 131.16,71.986 135.01,69.389"
+    },
+    {
+      "_gvid": 82,
+      "tail": 0,
+      "head": 83,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[124.870,78.210],[128.210,76.280],[131.740,74.250],[135.270,72.210]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[137.060,75.220],[143.970,67.180],[133.560,69.150]]
+        }
+      ],
+      "pos": "e,143.97,67.185 124.87,78.212 128.21,76.283 131.74,74.246 135.27,72.205"
+    },
+    {
+      "_gvid": 83,
+      "tail": 0,
+      "head": 84,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[126.360,79.310],[129.300,77.880],[132.360,76.390],[135.440,74.890]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[137.160,77.940],[144.610,70.410],[134.090,71.650]]
+        }
+      ],
+      "pos": "e,144.61,70.415 126.36,79.314 129.3,77.884 132.36,76.39 135.44,74.889"
+    },
+    {
+      "_gvid": 84,
+      "tail": 0,
+      "head": 85,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[127.800,80.570],[130.170,79.610],[132.610,78.620],[135.080,77.630]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[136.600,80.790],[144.560,73.790],[133.980,74.300]]
+        }
+      ],
+      "pos": "e,144.56,73.795 127.8,80.567 130.17,79.61 132.61,78.623 135.08,77.627"
+    },
+    {
+      "_gvid": 85,
+      "tail": 0,
+      "head": 86,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[128.790,82.090],[130.690,81.470],[132.640,80.840],[134.600,80.200]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[136.030,83.420],[144.460,77.000],[133.870,76.760]]
+        }
+      ],
+      "pos": "e,144.46,77 128.79,82.093 130.69,81.475 132.64,80.842 134.6,80.203"
+    },
+    {
+      "_gvid": 86,
+      "tail": 87,
+      "head": 0,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[148.700,78.970],[145.850,79.680],[142.910,80.410],[139.970,81.140]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[138.920,77.800],[130.070,83.610],[140.620,84.590]]
+        }
+      ],
+      "pos": "e,130.07,83.614 148.7,78.969 145.85,79.679 142.91,80.411 139.97,81.144"
+    },
+    {
+      "_gvid": 87,
+      "tail": 88,
+      "head": 0,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[148.960,82.150],[146.240,82.630],[143.460,83.120],[140.660,83.620]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[139.880,80.200],[130.640,85.380],[141.100,87.090]]
+        }
+      ],
+      "pos": "e,130.64,85.382 148.96,82.153 146.24,82.631 143.46,83.123 140.66,83.615"
+    },
+    {
+      "_gvid": 88,
+      "tail": 89,
+      "head": 0,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[148.990,85.320],[146.580,85.570],[144.120,85.830],[141.650,86.090]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[141.140,82.620],[131.560,87.150],[141.870,89.590]]
+        }
+      ],
+      "pos": "e,131.56,87.151 148.99,85.319 146.58,85.572 144.12,85.831 141.65,86.091"
+    },
+    {
+      "_gvid": 89,
+      "tail": 90,
+      "head": 0,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[149.210,88.440],[146.790,88.520],[144.310,88.610],[141.830,88.690]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[141.570,85.200],[131.700,89.050],[141.810,92.200]]
+        }
+      ],
+      "pos": "e,131.7,89.049 149.21,88.437 146.79,88.522 144.31,88.608 141.83,88.695"
+    }
+  ]
+}
