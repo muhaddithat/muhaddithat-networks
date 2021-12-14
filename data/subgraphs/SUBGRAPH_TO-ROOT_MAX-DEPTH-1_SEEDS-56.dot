@@ -1,0 +1,456 @@
+strict digraph "" {
+	56	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Umm Salamah ( أم سلمة بنت أبي أمية ( رضي الله عنها"];
+	244	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Zaynab bint Abi Salamah ( زينب بنت أبي سلمة  ( رضي الله عنها"];
+	56 -> 244;
+	246	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Umar bin Abi Salamah ( عمر بن أبي سلمة بن عبد الأسد ( رضي الله عنه"];
+	56 -> 246;
+	2086	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Amir bin Abi Umayyah ( عامر بن أبي أمية المخزومي ( رضي الله عنه"];
+	56 -> 2086;
+	11005	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Sulayman ibn Yasar سليمان بن يسار مولى ميمونة بنت الحارث"];
+	56 -> 11005;
+	10511	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="'Urwa ibn al-Zubayr عروة بن الزبير"];
+	56 -> 10511;
+	19004	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Mus'ab bin 'Abdullah مصعب بن عبد الله بن أبي أمية"];
+	56 -> 19004;
+	438	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Safinah ( سفينة مولى رسول الله صلى الله عليه وسلم ( رضي الله عنه"];
+	56 -> 438;
+	19466	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=maqbool,
+		name="Abu Kathir أبو كثير مولى أم سلمة"];
+	56 -> 19466;
+	10737	[gender=f,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade=maqbool,
+		name="Khayra Umm al-Hasan al-Basri خيرة أم الحسن البصري"];
+	56 -> 10737;
+	50	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Usamah ibn Zayd ( أسامة بن زيد بن حارثة ( رضي الله عنه"];
+	56 -> 50;
+	11734	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Hind bint al-Harith al-Farasiyya هند بنت الحارث الفراسية"];
+	56 -> 11734;
+	2808	[gender=f,
+		generation="Comp.(RA)",
+		grade=undefined,
+		name="Barra bint Abi Tajra ( برة بنت أبي تجراة العبدرية ( رضي الله عنها"];
+	56 -> 2808;
+	11113	[gender=m,
+		generation="Follower(Tabi') [1st Generation]",
+		grade="thiqah thiqah",
+		name="Abu 'Uthman al-Nahdi عبد الرحمن بن مل - أبو عثمان النهدي"];
+	56 -> 11113;
+	10561	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade="no doubt",
+		name="Humaid bin 'Abdur Rahman حميد بن عبد الرحمن بن عوف الزهرى"];
+	56 -> 10561;
+	10567	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Abu Salama bin 'Abdur Rahman أبو سلمة بن عبد الرحمن بن عوف"];
+	56 -> 10567;
+	11002	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade="thiqah thiqah",
+		name="Sa'id ibn al-Musayyib سعيد بن المسيب بن حزن أبو محمد القرشي"];
+	56 -> 11002;
+	11353	[gender=m,
+		generation="Follower(Tabi') [1st Generation]",
+		grade="no doubt",
+		name="Shaqayq bin Salmah al-Asadi شقيق بن سلمة الأسدي أبو وائل الكوفي"];
+	56 -> 11353;
+	11052	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="'Amir al-Sha'bi عامر الشعبي"];
+	56 -> 11052;
+	107	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdur Rahman bin Abi Bakr ( عبد الرحمن بن أبي بكر الصديق ( رضي الله عنه"];
+	56 -> 107;
+	448	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdur Rahman ibn al-Harith ( عبد الرحمن بن الحارث بن هشام ( رضي الله عنه"];
+	56 -> 448;
+	11030	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="Ikramah bin 'Abdur Rahman عكرمة بن عبد الرحمن بن الحارث"];
+	56 -> 11030;
+	11003	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="Abu Bakr bin 'Abdur Rahman أبو بكر بن عبد الرحمن بن الحارث بن هشام"];
+	56 -> 11003;
+	11211	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Karayb bin Abi Muslim كريب بن أبي مسلم الهاشمي"];
+	56 -> 11211;
+	5232	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Qubaysa bin Zuwayb ( قبيصة بن ذؤيب ( رضي الله عنه"];
+	56 -> 5232;
+	11014	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Nafie' نافع مولى ابن عمر"];
+	56 -> 11014;
+	13144	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Ya'la bin Mamulk يعلى بن مملك"];
+	56 -> 13144;
+	17	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="ibn Abbas ( عبد الله بن العباس بن عبد المطلب  الحبر ( رضي الله عنه"];
+	56 -> 17;
+	169	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdullah ibn Shaddad ( عبد الله بن شداد بن الهاد الليثي ( رضي الله عنه"];
+	56 -> 169;
+	487	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdullah bin Safwan bin Umayyah ( عبد الله بن صفوان بن أمية ( رضي الله عنه"];
+	56 -> 487;
+	912	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdullah ibn al-Harith ibn Nawfal ( عبد الله بن الحارث بن نوفل ( رضي الله عنه"];
+	56 -> 912;
+	2007	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="al-Harith bin 'Abdullah bin Abi Rabi'a ( الحارث بن عبد الله بن أبي ربيعة ( رضي الله عنه"];
+	56 -> 2007;
+	2308	[gender=m,
+		generation="Comp.(RA) [3rd Generation]",
+		grade=undefined,
+		name="'Abdullah bin Wahb bin Zam'a ( عبد الله بن وهب بن زمعة ( رضي الله عنه"];
+	56 -> 2308;
+	2802	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Safiyya bint Shayba bin 'Uthman ( صفية بنت شيبة بن عثمان العبدرية ( رضي الله عنها"];
+	56 -> 2802;
+	2803	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="'Abdur Rahman bin Shayba ( عبد الرحمن بن شيبة بن عثمان الحجبي ( رضي الله عنه"];
+	56 -> 2803;
+	4049	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Wathla bin al-'Asqa' ( واثلة بن الأسقع ( رضي الله عنه"];
+	56 -> 4049;
+	5408	[gender=m,
+		generation="Comp.(RA) [2nd Generation]",
+		grade=undefined,
+		name="Hunayda bin Khalid ( هنيدة بن خالد الخزاعي ( رضي الله عنه"];
+	56 -> 5408;
+	10520	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="'Abdullah ibn 'Abdur-Rahman ibn Abi Bakr عبد الله بن عبد الرحمن بن أبي بكر الصديق"];
+	56 -> 10520;
+	10521	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="Hafsa bint 'Abdur-Rahman ibn Abi Bakr حفصة بنت عبد الرحمن بن أبي بكر الصديق"];
+	56 -> 10521;
+	10526	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Fatima bint al-Mundhir bin al-Zubayr فاطمة بنت المنذر بن الزبير"];
+	56 -> 10526;
+	10554	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="'Amir bin Sa'd ibn Abi Waqqas عامر بن سعد بن أبي وقاص"];
+	56 -> 10554;
+	10559	[gender=f,
+		generation="Follower(Tabi') [4th generation]",
+		grade="thiqah thiqah",
+		name="'Aisha bint Sa'd ibn Abi Waqqas عائشة بنت سعد بن أبي وقاص الزهرية"];
+	56 -> 10559;
+	10691	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Dbh bin Mhsn al-Nzy ضبة بن محصن العنزي"];
+	56 -> 10691;
+	10794	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="'Ubaidullah bin al-Qbtyh عبيد الله بن القبطية الكوفي"];
+	56 -> 10794;
+	10839	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Yahya bin al-Jazar al-Arni يحيى بن الجزار"];
+	56 -> 10839;
+	10875	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Yazid bin Rbah يزيد بن رباح"];
+	56 -> 10875;
+	10929	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="'Abdullah bin Abi Salma عبد الله بن أبي سلمة الماجشون"];
+	56 -> 10929;
+	10994	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Abu 'Ubaida bin 'Abdullah bin Zama' أبو عبيدة بن عبد الله بن زمعة"];
+	56 -> 10994;
+	11018	[gender=m,
+		generation="Follower(Tabi') [1st Generation]",
+		grade="no doubt",
+		name="Masrouq bin al-Ajda' مسروق بن الأجدع"];
+	56 -> 11018;
+	11021	[gender=m,
+		generation="Follower(Tabi')",
+		grade="no doubt",
+		name="'Abdullah ibn Yasar عبد الله بن يسار مولى ميمونة بنت الحارث"];
+	56 -> 11021;
+	11028	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Mujahid bin Jabir مجاهد بن جبر"];
+	56 -> 11028;
+	11029	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="'Ata' bin Abi Rabah عطاء بن أبي رباح"];
+	56 -> 11029;
+	11045	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="'Ali bin al-Husain bin 'Ali علي بن الحسين بن علي - زين العابدين"];
+	56 -> 11045;
+	11059	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="thiqah thiqah",
+		name="Nafi' bin Jubayr bin Mut'im نافع بن جبير بن مطعم"];
+	56 -> 11059;
+	11090	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade="no doubt",
+		name="'Abdullah bin 'Ubaidullah b. Abi Mulayka عبد الله بن عبيد الله بن أبي مليكة"];
+	56 -> 11090;
+	11161	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Dhakwan Abu Salah al-Saman al-Ziyat ذكوان أبو صالح السمان الزيات"];
+	56 -> 11161;
+	11168	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Sa'id bin Abi Sa'id (Kaysan) سعيد بن أبي سعيد كيسان المقبري"];
+	56 -> 11168;
+	11259	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade=thiqah,
+		name="'Ubaid bin 'Umayr bin Qatada عبيد بن عمير بن قتادة"];
+	56 -> 11259;
+	11297	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="'Ali bin Da'ud,Abu al-Mutawakkal al-Naji علي بن داود أبو المتوكل الناجي"];
+	56 -> 11297;
+	11313	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Lahaaq bin Hameed bin Sa'id لاحق بن حميد بن سعيد أبو مجلز"];
+	56 -> 11313;
+	11397	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade=thiqah,
+		name="al-Ma'rur bin Suwayd al-Asadi المعرور بن سويد الأسدي أبو أمية الكوفي"];
+	56 -> 11397;
+	11442	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="Muhammad bin 'Ali b. al-Hussain al-Baqir محمد بن علي بن الحسين بن علي ,الباقر"];
+	56 -> 11442;
+	11524	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=thiqah,
+		name="'Uthman bin 'Abdullah bin Muhab عثمان بن عبد الله بن موهب التيمي الأعرج"];
+	56 -> 11524;
+	11725	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=sadooq,
+		name="Maqsim bin Bajra مقسم بن بجرة"];
+	56 -> 11725;
+	11811	[gender=f,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade="thiqah thiqah",
+		name="Safiyya bint Abi 'Ubaid al-Thaqafi صفية بنت أبي عبيد بن مسعود الثقفية"];
+	56 -> 11811;
+	12318	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=undefined,
+		name="'Abdul Malik bin Marwan عبد الملك بن مروان بن الحكم"];
+	56 -> 12318;
+	13041	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=maqbool,
+		name="Sulaiman bin Babah سليمان بن بأبيه"];
+	56 -> 13041;
+	14221	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="'Abdullah bin Farroukh عبد الله بن فروخ القرشي التيمي مولى"];
+	56 -> 14221;
+	15105	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Hkym bin Sa'd al-Hnfy Abu حكيم بن سعد"];
+	56 -> 15105;
+	15504	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Mahan al-Hanafi, Abu al-Salm ماهان الحنفي أبو سالم"];
+	56 -> 15504;
+	15692	[gender=m,
+		generation="Follower(Tabi') [2nd Generation]",
+		grade=thiqah,
+		name="Abu Lyla al-Kndy أبو ليلى الكندي"];
+	56 -> 15692;
+	16001	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Aslm bin Yazid Abu أسلم بن يزيد أبو عمران"];
+	56 -> 16001;
+	18400	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Swa'a al-Khza'y Akhw Mghyth سواء الخزاعي أخو"];
+	56 -> 18400;
+	18947	[gender=m,
+		generation="Follower(Tabi')",
+		grade=maqbool,
+		name="Muhammad bin 'Umar bin Abi Salma محمد بن عمر بن أبي سلمة"];
+	56 -> 18947;
+	19290	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Abu Salah Client Of Talha أبو صالح مولى طلحة"];
+	56 -> 19290;
+	19307	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=thiqah,
+		name="Abu 'Abdullah al-Jdly أبو عبد الله الجدلي"];
+	56 -> 19307;
+	19462	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Jasrah bint Dajaja جسرة بنت دجاجة"];
+	56 -> 19462;
+	19467	[gender=f,
+		generation="Follower(Tabi') [6th generation]",
+		grade=undefined,
+		name="Hafsa bint Abi Kathir حفصة بنت أبي كثير"];
+	56 -> 19467;
+	19469	[gender=f,
+		generation="Follower(Tabi') [4th generation]",
+		grade=maqbool,
+		name="Hkymh bint Umayya bin حكيمة بنت أمية"];
+	56 -> 19469;
+	19478	[gender=f,
+		generation="Follower(Tabi') [4th generation]",
+		grade=maqbool,
+		name="Ramaytha bint al-Harith bin al-Tufayl رميثة بنت الحارث بن الطفيل"];
+	56 -> 19478;
+	19486	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=undefined,
+		name="Slma al-Bakryh سلمى البكرية"];
+	56 -> 19486;
+	19523	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Mussah al-Azadiyya مسة الأزدية أم بسة"];
+	56 -> 19523;
+	19540	[gender=f,
+		generation="Follower(Tabi') [4th generation]",
+		grade="not thiqah",
+		name="Umm Haram Mother Of Muhammad أم حرام والدة محمد"];
+	56 -> 19540;
+	19546	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Umm Dhrh al-Madnih Mwlah Aa'ishh أم ذرة المدنية"];
+	56 -> 19546;
+	19566	[gender=f,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Umm Musa أم موسى"];
+	56 -> 19566;
+	19844	[gender=m,
+		generation="Follower(Tabi') [5th generation]",
+		grade="sadooq/delusion",
+		name="al-Rabi' bin Anas al-Bakry الربيع بن أنس البكري"];
+	56 -> 19844;
+	19944	[gender=m,
+		generation="Follower(Tabi') [4th generation]",
+		grade=sadooq,
+		name="al-Muttalib bin 'Abdullah bin Hantab المطلب بن عبد الله بن حنطب"];
+	56 -> 19944;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 56;
+	21	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Ja'far ibn Abi Talib ( جعفر بن أبي طالب بن عبد المطلب ( رضي الله عنه"];
+	21 -> 56;
+	63	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Fatima bint Muhammad ( فاطمة الزهراء بنت محمد بن عبد الله ( رضي الله عنها"];
+	63 -> 56;
+	101	[gender=m,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Abu Salamah ( عبد الله بن عبد الأسد أبو سلمة ( رضي الله عنه"];
+	101 -> 56;
+}

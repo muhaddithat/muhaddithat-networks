@@ -1,0 +1,405 @@
+{
+  "name": "",
+  "directed": true,
+  "strict": true,
+  "_draw_": 
+  [
+    {
+      "op": "c",
+      "grad": "none",
+      "color": "#fffffe00"
+    },
+    {
+      "op": "C",
+      "grad": "none",
+      "color": "#ffffff"
+    },
+    {
+      "op": "P",
+      "points": [[0.000,0.000],[0.000,137.820],[166.820,137.820],[166.820,0.000]]
+    }
+  ],
+  "bb": "0,0,166.82,137.82",
+  "xdotversion": "1.7",
+  "_subgraph_cnt": 0,
+  "objects": [
+    {
+      "_gvid": 0,
+      "name": "84",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [83.410,68.910,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [83.410,65.210],
+          "align": "c",
+          "width": 14.000,
+          "text": "84"
+        }
+      ],
+      "gender": "f",
+      "generation": "Comp.(RA) [1st Generation]",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Asma' bint Yazid bin al-Sakan ( أسماء بنت يزيد بن السكن ( رضي الله عنها",
+      "pos": "83.409,68.912",
+      "width": "0.75"
+    },
+    {
+      "_gvid": 1,
+      "name": "12498",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [134.320,119.820,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [134.320,116.120],
+          "align": "c",
+          "width": 34.000,
+          "text": "12498"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Mahmud bin 'Amr bin Yazid bin al-Sakan محمود بن عمرو بن يزيد بن السكن",
+      "pos": "134.32,119.82",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 2,
+      "name": "11044",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [32.500,119.820,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [32.500,116.120],
+          "align": "c",
+          "width": 34.000,
+          "text": "11044"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "sadooq",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Shar bin Hushab al-Asha'ri شهر بن حوشب الأشعري",
+      "pos": "32.497,119.82",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 3,
+      "name": "17066",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [32.500,18.000,32.490,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [32.500,14.300],
+          "align": "c",
+          "width": 34.000,
+          "text": "17066"
+        }
+      ],
+      "gender": "m",
+      "generation": "Follower(Tabi') [3rd Generation]",
+      "grade": "maqbool",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Muhajir bin Abi Muslim (Dinar) مهاجر بن أبي مسلم",
+      "pos": "32.497,18",
+      "width": "0.9027"
+    },
+    {
+      "_gvid": 4,
+      "name": "1",
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "e",
+          "rect": [134.320,18.000,27.000,18.000]
+        }
+      ],
+      "_ldraw_": 
+      [
+        {
+          "op": "F",
+          "size": 14.000,
+          "face": "Times-Roman"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "T",
+          "pt": [134.320,14.300],
+          "align": "c",
+          "width": 7.000,
+          "text": "1"
+        }
+      ],
+      "gender": "m",
+      "generation": "Rasool Allah",
+      "grade": "undefined",
+      "height": "0.5",
+      "label": "\\N",
+      "name": "Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه",
+      "pos": "134.32,18",
+      "width": "0.75"
+    }
+  ],
+  "edges": [
+    {
+      "_gvid": 0,
+      "tail": 0,
+      "head": 1,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[98.410,83.910],[102.470,87.970],[106.960,92.460],[111.340,96.850]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[109.000,99.450],[118.540,104.050],[113.950,94.500]]
+        }
+      ],
+      "pos": "e,118.54,104.05 98.409,83.912 102.47,87.97 106.96,92.458 111.34,96.847"
+    },
+    {
+      "_gvid": 1,
+      "tail": 0,
+      "head": 2,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[68.410,83.910],[64.350,87.970],[59.860,92.460],[55.470,96.850]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[52.870,94.500],[48.270,104.050],[57.820,99.450]]
+        }
+      ],
+      "pos": "e,48.275,104.05 68.409,83.912 64.35,87.97 59.862,92.458 55.474,96.847"
+    },
+    {
+      "_gvid": 2,
+      "tail": 0,
+      "head": 3,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[68.410,53.910],[64.350,49.850],[59.860,45.370],[55.470,40.980]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[57.820,38.370],[48.270,33.780],[52.870,43.320]]
+        }
+      ],
+      "pos": "e,48.275,33.778 68.409,53.912 64.35,49.853 59.862,45.365 55.474,40.976"
+    },
+    {
+      "_gvid": 3,
+      "tail": 4,
+      "head": 0,
+      "_draw_": 
+      [
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "b",
+          "points": [[119.320,33.000],[115.010,37.310],[110.210,42.110],[105.570,46.750]]
+        }
+      ],
+      "_hdraw_": 
+      [
+        {
+          "op": "S",
+          "style": "solid"
+        },
+        {
+          "op": "c",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "C",
+          "grad": "none",
+          "color": "#000000"
+        },
+        {
+          "op": "P",
+          "points": [[103.070,44.300],[98.480,53.840],[108.020,49.250]]
+        }
+      ],
+      "pos": "e,98.477,53.843 119.32,33 115.01,37.312 110.21,42.108 105.57,46.755"
+    }
+  ]
+}

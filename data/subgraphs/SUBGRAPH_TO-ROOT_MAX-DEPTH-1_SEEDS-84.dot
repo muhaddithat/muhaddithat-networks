@@ -1,0 +1,26 @@
+strict digraph "" {
+	84	[gender=f,
+		generation="Comp.(RA) [1st Generation]",
+		grade=undefined,
+		name="Asma' bint Yazid bin al-Sakan ( أسماء بنت يزيد بن السكن ( رضي الله عنها"];
+	12498	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Mahmud bin 'Amr bin Yazid bin al-Sakan محمود بن عمرو بن يزيد بن السكن"];
+	84 -> 12498;
+	11044	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=sadooq,
+		name="Shar bin Hushab al-Asha'ri شهر بن حوشب الأشعري"];
+	84 -> 11044;
+	17066	[gender=m,
+		generation="Follower(Tabi') [3rd Generation]",
+		grade=maqbool,
+		name="Muhajir bin Abi Muslim (Dinar) مهاجر بن أبي مسلم"];
+	84 -> 17066;
+	1	[gender=m,
+		generation="Rasool Allah",
+		grade=undefined,
+		name="Prophet Muhammad(saw) ( محمّد صلّی اللہ علیہ وآلہ وسلّم ( رضي الله عنه"];
+	1 -> 84;
+}
