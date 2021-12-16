@@ -31,3 +31,4 @@ Since this was only a semester-long project, we didn't have time to explore all 
 - Including more muhaddithat, or women narrators, in the app. This would entail writing bios about them, selected hadiths they narrated, and generating and displaying their graphs.
 - Adding more layouts and features that would be unique to individual subgraphs
 - Making use of all the collected metadata on hadiths and bios. Currently, our hadith.json and bios.json files have extra metadata associated with each biography and hadith (including the hadith's narration chains, the narrators' places of stay, and others). This information is not integrated with the app currently, but can be done in the future.
+- Deploying the app so that it is hosted on the web instead of requiring any downloads or installations
