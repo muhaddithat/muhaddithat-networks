@@ -21,7 +21,7 @@ Running the scripts for this project requires a Python environment with the foll
 - json
 - python-graphviz
 
-## How to run the app:
+### How to run the app:
 
 After downloading the repository, open the app.ipynb JupyterNotebook and run all cells. You should be directed to this link: http://127.0.0.1:8050/. Open this in your preferred web browser and the app should be displayed. Refer to the <a href="https://github.com/muhaddithat/muhaddithat-networks/userguide.pdf" title="A2"> User Guide </a> if you need navigation instructions. 
 
