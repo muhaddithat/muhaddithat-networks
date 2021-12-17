@@ -4,7 +4,7 @@ This is a digital humanities project that aims to highlight teacher-student (or 
 
 ## Running the app
 
-Before running the app, we strongly recommend reading the <a href="https://github.com/muhaddithat/muhaddithat-networks/userguide.pdf" title="A2"> User Guide </a> for details on the relevant historical context, glossary of Arabic terms, user instructions, references and work cited, and other necessary background information for understanding and using the app. 
+Before running the app, we strongly recommend reading the <a href="https://github.com/muhaddithat/muhaddithat-networks/blob/main/userguide.pdf" title="A2"> User Guide </a> for details on the relevant historical context, glossary of Arabic terms, user instructions, references and work cited, and other necessary background information for understanding and using the app. 
 
 ### Required packages:
 
@@ -23,7 +23,7 @@ Running the scripts for this project requires a Python environment with the foll
 
 ### How to run the app:
 
-After downloading the repository, open the app.ipynb JupyterNotebook and run all cells. You should be directed to this link: http://127.0.0.1:8050/. Open this in your preferred web browser and the app should be displayed. Refer to the <a href="https://github.com/muhaddithat/muhaddithat-networks/userguide.pdf" title="A2"> User Guide </a> if you need navigation instructions. 
+After downloading the repository, open the app.ipynb JupyterNotebook and run all cells. You should be directed to this link: http://127.0.0.1:8050/. Open this in your preferred web browser and the app should be displayed. Refer to the <a href="https://github.com/muhaddithat/muhaddithat-networks/blob/main/userguide.pdf" title="A2"> User Guide </a> if you need navigation instructions. 
 
 ## Potential future improvements
 
