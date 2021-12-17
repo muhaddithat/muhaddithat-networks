@@ -1,6 +1,6 @@
 # muhaddithat-networks
 
-This is a semester-long project by Ayah Aboelela and Remy LeWinter for a graduate class on digital humanities. This project aims to highlight teacher-student (or narrator-receiver) networks between muhaddithat (female scholars and transmitters of hadith) within the first 4 centuries of Islamic history. Data for this is sourced from the <a href="https://www.kaggle.com/fahd09/hadith-narrators" title="A2"> Hadith Narrators Dataset on Kaggle </a>.
+This is a semester-long project by Ayah Aboelela and Remy LeWinter for a graduate class on digital humanities. This project aims to highlight teacher-student (or narrator-receiver) networks between muhaddithat (female scholars and transmitters of hadith) within the first 4 centuries of Islamic history. Data for this is sourced from the <a href="https://www.kaggle.com/fahd09/hadith-narrators" title="A2"> Hadith Narrators Dataset on Kaggle</a>.
 
 ## Running the app
 
@@ -32,3 +32,6 @@ Since this was only a semester-long project, we didn't have time to explore all 
 - Adding more layouts and features that would be unique to individual subgraphs
 - Making use of all the collected metadata on hadiths and bios. Currently, our hadith.json and bios.json files have extra metadata associated with each biography and hadith (including the hadith's narration chains, the narrators' places of stay, and others). This information is not integrated with the app currently, but can be done in the future.
 - Deploying the app so that it is hosted on the web instead of requiring any downloads or installations
+- Fixing the reset button: the reset button currently resets the zoom, but it orients the nodes and edges in different positions that make it harder to read. Re-selecting the desired narrator from the dropdown menu will reset the view normally, but the reset button is currently not fully functional.
+- Some graphs appear to have nodes that are not traced back all the way to the Prophet, even though we tried to check for that when generating each of the subgraphs. In the future, this can be investigated more thoroughly to ensure the Prophet's node is the only one being displayed without a teacher.
+- It is still hard to trace narration chains/connections in some of the larger graphs. Given more time, it may be possible to position and style the nodes differently so that connections between nodes can be more easily identified.
